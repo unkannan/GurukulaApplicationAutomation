@@ -1,0 +1,1932 @@
+2019-08-26 01:32:59 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-26 01:33:00 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-26 01:33:06 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-26 01:33:06 INFO  LoginPage:96 - # Login into application(!nv@lid, INVALID)
+2019-08-26 01:33:13 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-26 01:33:13 INFO  LoginPage:96 - # Login into application(admin, INVALID)
+2019-08-26 01:33:19 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-26 01:33:20 INFO  LoginPage:96 - # Login into application(INVALID, admin)
+2019-08-26 01:33:25 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-26 01:33:25 INFO  LoginPage:96 - # Login into application(, )
+2019-08-26 01:33:31 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-26 01:33:31 INFO  LoginPage:96 - # Login into application(admin, )
+2019-08-26 01:33:37 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-26 01:33:37 INFO  LoginPage:96 - # Login into application(, admin)
+2019-08-26 01:33:43 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-26 01:33:44 INFO  LoginPage:83 - # Clicked on link: Did you forget your password?
+2019-08-26 01:33:44 INFO  ResetPasswordPage:42 - # Reset Password page header: Reset your password
+2019-08-26 01:33:50 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-26 01:33:50 INFO  LoginPage:83 - # Clicked on link: Register a new account
+2019-08-26 01:33:50 INFO  RegistrationPage:49 - # Registration page header: Registration
+2019-08-26 01:33:55 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-26 01:33:56 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-26 01:33:56 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-26 01:33:57 INFO  WelcomePage:75 - # Clicked on 'Log out' Menu Option
+2019-08-26 01:33:57 INFO  WelcomePage:37 - # Welcome page header: Welcome to Gurukula!
+2019-08-26 01:34:03 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-26 01:34:03 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-26 01:34:04 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-26 01:34:04 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-26 01:34:04 INFO  WelcomePage:62 - # Clicked on 'Home' menu
+2019-08-26 01:34:04 INFO  WelcomePage:37 - # Welcome page header: Welcome to Gurukula!
+2019-08-26 01:34:10 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-26 01:34:10 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-26 01:34:11 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-26 01:34:11 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-26 01:34:11 INFO  WelcomePage:83 - # Clicked on 'Gurukula Logo'
+2019-08-26 01:34:11 INFO  WelcomePage:37 - # Welcome page header: Welcome to Gurukula!
+2019-08-27 17:12:51 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:12:52 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:12:52 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:12:52 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:12:53 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:12:53 INFO  BranchMainPage:120 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:12:53 INFO  BranchMainPage:122 - # Entered branch name: Computer Science
+2019-08-27 17:12:53 INFO  BranchMainPage:124 - # Entered branch code: CS
+2019-08-27 17:12:53 INFO  BranchMainPage:135 - # Clicked on 'Save' button
+2019-08-27 17:12:54 INFO  BranchMainPage:77 - # Newly Created Branch's Id: 1
+2019-08-27 17:12:54 INFO  BranchMainPage:170 - # Branch info corresponding to branch id (1): {ID=1, Code=CS, Name=Computer Science}
+2019-08-27 17:13:00 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:13:00 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:13:01 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:13:01 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:13:01 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:13:02 INFO  BranchMainPage:120 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:13:02 INFO  BranchMainPage:122 - # Entered branch name: Computer Science
+2019-08-27 17:13:02 INFO  BranchMainPage:124 - # Entered branch code: CS
+2019-08-27 17:13:02 INFO  BranchMainPage:135 - # Clicked on 'Cancel' button
+2019-08-27 17:13:08 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:13:09 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:13:09 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:13:09 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:13:09 INFO  BranchMainPage:58 - # Branch page header: Branches
+2019-08-27 17:13:15 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:13:15 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:13:15 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:13:15 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:13:16 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:13:16 INFO  BranchMainPage:296 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:13:16 INFO  BranchMainPage:301 - # Validation message for 'name': This field is required.
+2019-08-27 17:13:16 INFO  BranchMainPage:311 - # 'Save' button is disabled
+2019-08-27 17:13:23 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:13:23 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:13:23 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:13:23 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:13:24 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:13:24 INFO  BranchMainPage:296 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:13:24 INFO  BranchMainPage:301 - # Validation message for 'name': This field is required to be at least 5 characters.
+2019-08-27 17:13:24 INFO  BranchMainPage:311 - # 'Save' button is disabled
+2019-08-27 17:13:30 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:13:30 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:13:30 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:13:30 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:13:31 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:13:31 INFO  BranchMainPage:296 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:13:31 INFO  BranchMainPage:301 - # Validation message for 'name': This field should follow pattern ^[a-zA-Z\s]*$.
+2019-08-27 17:13:31 INFO  BranchMainPage:311 - # 'Save' button is disabled
+2019-08-27 17:13:38 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:13:38 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:13:38 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:13:38 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:13:38 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:13:39 INFO  BranchMainPage:296 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:13:39 INFO  BranchMainPage:301 - # Validation message for 'name': This field should follow pattern ^[a-zA-Z\s]*$.
+2019-08-27 17:13:39 INFO  BranchMainPage:311 - # 'Save' button is disabled
+2019-08-27 17:13:45 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:13:46 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:13:46 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:13:46 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:13:46 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:13:47 INFO  BranchMainPage:296 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:13:47 INFO  BranchMainPage:301 - # Validation message for 'name': This field cannot be longer than 20 characters.
+2019-08-27 17:13:47 INFO  BranchMainPage:311 - # 'Save' button is disabled
+2019-08-27 17:13:53 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:13:54 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:13:54 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:13:54 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:13:54 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:13:55 INFO  BranchMainPage:296 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:13:55 INFO  BranchMainPage:301 - # Validation message for 'code': This field is required.
+2019-08-27 17:13:55 INFO  BranchMainPage:311 - # 'Save' button is disabled
+2019-08-27 17:14:01 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:14:01 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:14:01 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:14:01 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:14:01 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:14:02 INFO  BranchMainPage:296 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:14:02 INFO  BranchMainPage:301 - # Validation message for 'code': This field is required to be at least 2 characters.
+2019-08-27 17:14:02 INFO  BranchMainPage:311 - # 'Save' button is disabled
+2019-08-27 17:14:08 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:14:08 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:14:08 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:14:09 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:14:09 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:14:09 INFO  BranchMainPage:296 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:14:09 INFO  BranchMainPage:301 - # Validation message for 'code': This field should follow pattern ^[A-Z0-9]*$.
+2019-08-27 17:14:09 INFO  BranchMainPage:311 - # 'Save' button is disabled
+2019-08-27 17:14:15 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:14:16 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:14:16 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:14:16 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:14:16 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:14:17 INFO  BranchMainPage:296 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:14:17 INFO  BranchMainPage:301 - # Validation message for 'code': This field should follow pattern ^[A-Z0-9]*$.
+2019-08-27 17:14:17 INFO  BranchMainPage:311 - # 'Save' button is disabled
+2019-08-27 17:14:23 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:14:23 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:14:24 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:14:24 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:14:24 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:14:24 INFO  BranchMainPage:296 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:14:25 INFO  BranchMainPage:301 - # Validation message for 'code': This field cannot be longer than 10 characters.
+2019-08-27 17:14:25 INFO  BranchMainPage:311 - # 'Save' button is disabled
+2019-08-27 17:14:30 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:14:31 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:14:31 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:14:31 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:14:31 INFO  BranchMainPage:204 - # Clicked on id link: 1
+2019-08-27 17:14:31 INFO  BranchesMainDetailPage:30 - # Branch Details page header: Branch 1
+2019-08-27 17:14:37 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:14:38 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:14:38 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:14:38 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:14:38 INFO  BranchMainPage:219 - # Clicked on 'View' button corresponding to id: 1
+2019-08-27 17:14:38 INFO  BranchesMainDetailPage:30 - # Branch Details page header: Branch 1
+2019-08-27 17:14:44 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:14:45 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:14:45 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:14:45 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:14:45 INFO  BranchMainPage:219 - # Clicked on 'Edit' button corresponding to id: 1
+2019-08-27 17:14:52 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:14:53 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:14:53 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:14:53 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:14:53 INFO  BranchMainPage:219 - # Clicked on 'Edit' button corresponding to id: 1
+2019-08-27 17:14:53 INFO  BranchMainPage:120 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:14:54 INFO  BranchMainPage:122 - # Entered branch name: Branch CS Updated
+2019-08-27 17:14:54 INFO  BranchMainPage:124 - # Entered branch code: CS1
+2019-08-27 17:14:54 INFO  BranchMainPage:135 - # Clicked on 'Cancel' button
+2019-08-27 17:14:54 INFO  BranchMainPage:254 - # Updated branch details
+2019-08-27 17:14:54 INFO  BranchMainPage:170 - # Branch info corresponding to branch id (1): {ID=1, Code=CS, Name=Computer Science}
+2019-08-27 17:15:00 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:15:01 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:15:01 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:15:01 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:15:02 INFO  BranchMainPage:219 - # Clicked on 'Edit' button corresponding to id: 1
+2019-08-27 17:15:19 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:15:19 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:15:19 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:15:19 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:15:19 INFO  BranchMainPage:170 - # Branch info corresponding to branch id (1): {ID=1, Code=CS, Name=Computer Science}
+2019-08-27 17:15:19 INFO  BranchMainPage:219 - # Clicked on 'Delete' button corresponding to id: 1
+2019-08-27 17:15:20 INFO  BranchMainPage:265 - # Delete confirmation modal: Are you sure you want to delete Branch 1?
+2019-08-27 17:15:20 INFO  BranchMainPage:279 - # Clicked on 'Cancel' button on Delete confirmation modal
+2019-08-27 17:15:20 INFO  BranchMainPage:170 - # Branch info corresponding to branch id (1): {ID=1, Code=CS, Name=Computer Science}
+2019-08-27 17:15:26 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:15:26 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:15:26 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:15:26 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:15:26 INFO  BranchMainPage:219 - # Clicked on 'Delete' button corresponding to id: 1
+2019-08-27 17:15:26 INFO  BranchMainPage:265 - # Delete confirmation modal: Are you sure you want to delete Branch 1?
+2019-08-27 17:15:27 INFO  BranchMainPage:279 - # Clicked on 'Delete' button on Delete confirmation modal
+2019-08-27 17:15:37 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:15:38 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:15:43 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:15:44 INFO  LoginPage:96 - # Login into application(!nv@lid, INVALID)
+2019-08-27 17:15:50 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:15:50 INFO  LoginPage:96 - # Login into application(admin, INVALID)
+2019-08-27 17:15:56 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:15:57 INFO  LoginPage:96 - # Login into application(INVALID, admin)
+2019-08-27 17:16:02 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:16:03 INFO  LoginPage:96 - # Login into application(, )
+2019-08-27 17:16:09 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:16:09 INFO  LoginPage:96 - # Login into application(admin, )
+2019-08-27 17:16:15 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:16:15 INFO  LoginPage:96 - # Login into application(, admin)
+2019-08-27 17:16:21 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:16:21 INFO  LoginPage:83 - # Clicked on link: Did you forget your password?
+2019-08-27 17:16:21 INFO  ResetPasswordPage:42 - # Reset Password page header: Reset your password
+2019-08-27 17:16:27 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:16:27 INFO  LoginPage:83 - # Clicked on link: Register a new account
+2019-08-27 17:16:27 INFO  RegistrationPage:49 - # Registration page header: Registration
+2019-08-27 17:16:33 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:16:34 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:16:34 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 17:16:34 INFO  WelcomePage:75 - # Clicked on 'Log out' Menu Option
+2019-08-27 17:16:34 INFO  WelcomePage:37 - # Welcome page header: Welcome to Gurukula!
+2019-08-27 17:16:40 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:16:40 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:16:41 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:16:41 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 17:16:41 INFO  WelcomePage:62 - # Clicked on 'Home' menu
+2019-08-27 17:16:41 INFO  WelcomePage:37 - # Welcome page header: Welcome to Gurukula!
+2019-08-27 17:16:46 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:16:47 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:16:47 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:16:47 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 17:16:47 INFO  WelcomePage:83 - # Clicked on 'Gurukula Logo'
+2019-08-27 17:16:47 INFO  WelcomePage:37 - # Welcome page header: Welcome to Gurukula!
+2019-08-27 17:16:53 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:16:54 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:16:54 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:16:54 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:16:54 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:16:55 INFO  BranchMainPage:120 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:16:55 INFO  BranchMainPage:122 - # Entered branch name: Commerce
+2019-08-27 17:16:55 INFO  BranchMainPage:124 - # Entered branch code: ME
+2019-08-27 17:16:55 INFO  BranchMainPage:135 - # Clicked on 'Save' button
+2019-08-27 17:16:56 INFO  BranchMainPage:77 - # Newly Created Branch's Id: 2
+2019-08-27 17:16:56 INFO  BranchMainPage:170 - # Branch info corresponding to branch id (2): {ID=2, Code=ME, Name=Commerce}
+2019-08-27 17:16:56 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:16:56 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 17:16:56 INFO  StaffMainPage:336 - # Clicked on 'Create' button
+2019-08-27 17:16:57 INFO  StaffMainPage:307 - # User is on 'Create or edit a Staff' form
+2019-08-27 17:16:57 INFO  StaffMainPage:309 - # Entered staff name: Kannan
+2019-08-27 17:16:57 INFO  StaffMainPage:311 - # Select branch id: 2
+2019-08-27 17:16:57 INFO  StaffMainPage:336 - # Clicked on 'Save' button
+2019-08-27 17:16:58 INFO  StaffMainPage:93 - # Newly Created Staff's Id: 1
+2019-08-27 17:16:58 INFO  StaffMainPage:251 - # Staff info corresponding to staff id (1): {Branch=Commerce, ID=1, Name=Kannan}
+2019-08-27 17:16:58 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:16:58 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:16:58 INFO  BranchMainPage:219 - # Clicked on 'Edit' button corresponding to id: 2
+2019-08-27 17:16:59 INFO  BranchMainPage:120 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:16:59 INFO  BranchMainPage:122 - # Entered branch name: Civil
+2019-08-27 17:16:59 INFO  BranchMainPage:124 - # Entered branch code: ME
+2019-08-27 17:16:59 INFO  BranchMainPage:135 - # Clicked on 'Save' button
+2019-08-27 17:17:00 INFO  BranchMainPage:254 - # Updated branch details
+2019-08-27 17:17:00 INFO  BranchMainPage:170 - # Branch info corresponding to branch id (2): {ID=2, Code=ME, Name=Civil}
+2019-08-27 17:17:00 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:17:00 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 17:17:00 INFO  StaffMainPage:251 - # Staff info corresponding to staff id (1): {Branch=Civil, ID=1, Name=Kannan}
+2019-08-27 17:17:07 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:17:07 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:17:07 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:17:07 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:17:08 INFO  BranchMainPage:219 - # Clicked on 'Delete' button corresponding to id: 2
+2019-08-27 17:17:08 INFO  BranchMainPage:265 - # Delete confirmation modal: Are you sure you want to delete Branch 2?
+2019-08-27 17:17:24 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 17:17:25 INFO  RegistrationPage:49 - # Registration page header: Registration
+2019-08-27 17:17:31 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 17:17:31 INFO  RegistrationPage:91 - # Entered text in 'login': kannan
+2019-08-27 17:17:31 INFO  RegistrationPage:91 - # Entered text in 'email': unniqannan@gmail.com
+2019-08-27 17:17:31 INFO  RegistrationPage:91 - # Entered text in 'password': Test#123
+2019-08-27 17:17:31 INFO  RegistrationPage:91 - # Entered text in 'confirmPassword': Test#123
+2019-08-27 17:17:31 INFO  RegistrationPage:78 - # Clicked on 'Save' button
+2019-08-27 17:17:31 INFO  RegistrationPage:102 - # Alert message: Registration failed! Please try again later.
+2019-08-27 17:17:37 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 17:17:37 INFO  RegistrationPage:91 - # Entered text in 'login': a
+2019-08-27 17:17:48 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 17:17:48 INFO  RegistrationPage:91 - # Entered text in 'login': thisistotestthemaxlimitofthetextfieldonregistration
+2019-08-27 17:17:48 INFO  RegistrationPage:116 - # Validation message for 'login': Your login cannot be longer than 50 characters.
+2019-08-27 17:17:48 INFO  RegistrationPage:126 - # 'Register' button is disabled
+2019-08-27 17:17:54 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 17:17:54 INFO  RegistrationPage:91 - # Entered text in 'login': kannan
+2019-08-27 17:18:05 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 17:18:05 INFO  RegistrationPage:91 - # Entered text in 'email': a@b
+2019-08-27 17:18:05 INFO  RegistrationPage:116 - # Validation message for 'email': Your e-mail is required to be at least 5 characters.
+2019-08-27 17:18:05 INFO  RegistrationPage:126 - # 'Register' button is disabled
+2019-08-27 17:18:11 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 17:18:12 INFO  RegistrationPage:91 - # Entered text in 'email': abcdef
+2019-08-27 17:18:12 INFO  RegistrationPage:116 - # Validation message for 'email': Your e-mail is invalid.
+2019-08-27 17:18:12 INFO  RegistrationPage:126 - # 'Register' button is disabled
+2019-08-27 17:18:17 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 17:18:17 INFO  RegistrationPage:91 - # Entered text in 'email': ThisEmailIsToValidateTheMaxLimitEmail@TextField.com
+2019-08-27 17:18:29 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 17:18:29 INFO  RegistrationPage:91 - # Entered text in 'password': A
+2019-08-27 17:18:29 INFO  RegistrationPage:116 - # Validation message for 'password': Your password is required to be at least 5 characters.
+2019-08-27 17:18:29 INFO  RegistrationPage:126 - # 'Register' button is disabled
+2019-08-27 17:18:35 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 17:18:35 INFO  RegistrationPage:91 - # Entered text in 'password': this text is to test the max limit of the password1
+2019-08-27 17:18:35 INFO  RegistrationPage:116 - # Validation message for 'password': Your password cannot be longer than 50 characters.
+2019-08-27 17:18:35 INFO  RegistrationPage:126 - # 'Register' button is disabled
+2019-08-27 17:18:41 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 17:18:41 INFO  RegistrationPage:91 - # Entered text in 'password': 1admin
+2019-08-27 17:18:52 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 17:18:52 INFO  RegistrationPage:91 - # Entered text in 'confirmPassword': A
+2019-08-27 17:18:52 INFO  RegistrationPage:116 - # Validation message for 'confirmPassword': Your confirmation password is required to be at least 5 characters.
+2019-08-27 17:18:52 INFO  RegistrationPage:126 - # 'Register' button is disabled
+2019-08-27 17:18:59 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 17:18:59 INFO  RegistrationPage:91 - # Entered text in 'confirmPassword': this text is to test the max limit of the password1
+2019-08-27 17:18:59 INFO  RegistrationPage:116 - # Validation message for 'confirmPassword': Your confirmation password cannot be longer than 50 characters.
+2019-08-27 17:18:59 INFO  RegistrationPage:126 - # 'Register' button is disabled
+2019-08-27 17:19:04 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 17:19:05 INFO  RegistrationPage:91 - # Entered text in 'confirmPassword': 1admin
+2019-08-27 17:19:15 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 17:19:15 INFO  RegistrationPage:91 - # Entered text in 'login':  
+2019-08-27 17:19:15 INFO  RegistrationPage:136 - # Cleared 'login' to verify required field validation
+2019-08-27 17:19:15 INFO  RegistrationPage:116 - # Validation message for 'login': Your login is required.
+2019-08-27 17:19:15 INFO  RegistrationPage:126 - # 'Register' button is disabled
+2019-08-27 17:19:21 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 17:19:21 INFO  RegistrationPage:91 - # Entered text in 'email':  
+2019-08-27 17:19:21 INFO  RegistrationPage:136 - # Cleared 'email' to verify required field validation
+2019-08-27 17:19:21 INFO  RegistrationPage:116 - # Validation message for 'email': Your e-mail is required.
+2019-08-27 17:19:21 INFO  RegistrationPage:126 - # 'Register' button is disabled
+2019-08-27 17:19:27 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 17:19:27 INFO  RegistrationPage:91 - # Entered text in 'password': req
+2019-08-27 17:19:27 INFO  RegistrationPage:136 - # Cleared 'password' to verify required field validation
+2019-08-27 17:19:27 INFO  RegistrationPage:116 - # Validation message for 'password': Your password is required.
+2019-08-27 17:19:27 INFO  RegistrationPage:126 - # 'Register' button is disabled
+2019-08-27 17:19:33 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 17:19:33 INFO  RegistrationPage:91 - # Entered text in 'confirmPassword': req
+2019-08-27 17:19:33 INFO  RegistrationPage:136 - # Cleared 'confirmPassword' to verify required field validation
+2019-08-27 17:19:33 INFO  RegistrationPage:116 - # Validation message for 'confirmPassword': Your confirmation password is required.
+2019-08-27 17:19:33 INFO  RegistrationPage:126 - # 'Register' button is disabled
+2019-08-27 17:19:39 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 17:19:39 INFO  RegistrationPage:91 - # Entered text in 'login': kannan
+2019-08-27 17:19:40 INFO  RegistrationPage:91 - # Entered text in 'email': unniqannan@gmail.com
+2019-08-27 17:19:40 INFO  RegistrationPage:91 - # Entered text in 'password': Test#123
+2019-08-27 17:19:40 INFO  RegistrationPage:91 - # Entered text in 'confirmPassword': Abc#123
+2019-08-27 17:19:40 INFO  RegistrationPage:78 - # Clicked on 'Save' button
+2019-08-27 17:19:40 INFO  RegistrationPage:102 - # Alert message: The password and its confirmation do not match!
+2019-08-27 17:19:45 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:19:45 INFO  ResetPasswordPage:53 - # Clicked on 'Did you forget your password?'
+2019-08-27 17:19:46 INFO  ResetPasswordPage:42 - # Reset Password page header: Reset your password
+2019-08-27 17:19:52 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:19:52 INFO  ResetPasswordPage:53 - # Clicked on 'Did you forget your password?'
+2019-08-27 17:19:52 INFO  ResetPasswordPage:82 - # Clicked on 'Reset password' button
+2019-08-27 17:20:03 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:20:03 INFO  ResetPasswordPage:53 - # Clicked on 'Did you forget your password?'
+2019-08-27 17:20:03 INFO  ResetPasswordPage:82 - # Clicked on 'Reset password' button
+2019-08-27 17:20:03 INFO  ResetPasswordPage:99 - # Alert message: E-Mail address isn't registered! Please check and try again
+2019-08-27 17:20:09 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:20:09 INFO  ResetPasswordPage:53 - # Clicked on 'Did you forget your password?'
+2019-08-27 17:20:09 INFO  ResetPasswordPage:63 - # Entered text in 'E-mail': abcde
+2019-08-27 17:20:09 INFO  ResetPasswordPage:110 - # Validation message for 'E-mail': Your e-mail is invalid.
+2019-08-27 17:20:09 INFO  ResetPasswordPage:121 - # 'Reset password' button is disabled
+2019-08-27 17:20:15 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:20:15 INFO  ResetPasswordPage:53 - # Clicked on 'Did you forget your password?'
+2019-08-27 17:20:15 INFO  ResetPasswordPage:63 - # Entered text in 'E-mail': a@b
+2019-08-27 17:20:15 INFO  ResetPasswordPage:110 - # Validation message for 'E-mail': Your e-mail is required to be at least 5 characters.
+2019-08-27 17:20:15 INFO  ResetPasswordPage:121 - # 'Reset password' button is disabled
+2019-08-27 17:20:21 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:20:22 INFO  ResetPasswordPage:53 - # Clicked on 'Did you forget your password?'
+2019-08-27 17:20:22 INFO  ResetPasswordPage:63 - # Entered text in 'E-mail': ThisEmailIsToValidateTheMaximumLimitOfEmail@TextField.com
+2019-08-27 17:20:33 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:20:33 INFO  ResetPasswordPage:53 - # Clicked on 'Did you forget your password?'
+2019-08-27 17:20:33 INFO  ResetPasswordPage:63 - # Entered text in 'E-mail': kannan
+2019-08-27 17:20:33 INFO  ResetPasswordPage:71 - # Cleared 'E-mail' to verify required field validation
+2019-08-27 17:20:33 INFO  ResetPasswordPage:110 - # Validation message for 'E-mail': Your e-mail is required.
+2019-08-27 17:20:33 INFO  ResetPasswordPage:121 - # 'Reset password' button is disabled
+2019-08-27 17:20:40 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:20:40 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:20:40 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:20:40 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:20:41 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:20:41 INFO  BranchMainPage:120 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:20:41 INFO  BranchMainPage:122 - # Entered branch name: Test Branch One
+2019-08-27 17:20:41 INFO  BranchMainPage:124 - # Entered branch code: T1
+2019-08-27 17:20:41 INFO  BranchMainPage:135 - # Clicked on 'Save' button
+2019-08-27 17:20:42 INFO  BranchMainPage:77 - # Newly Created Branch's Id: 3
+2019-08-27 17:20:42 INFO  BranchMainPage:170 - # Branch info corresponding to branch id (3): {ID=3, Code=T1, Name=Test Branch One}
+2019-08-27 17:20:42 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:20:42 INFO  BranchMainPage:120 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:20:42 INFO  BranchMainPage:122 - # Entered branch name: Test Branch Two
+2019-08-27 17:20:42 INFO  BranchMainPage:124 - # Entered branch code: T2
+2019-08-27 17:20:43 INFO  BranchMainPage:135 - # Clicked on 'Save' button
+2019-08-27 17:20:43 INFO  BranchMainPage:77 - # Newly Created Branch's Id: 4
+2019-08-27 17:20:43 INFO  BranchMainPage:170 - # Branch info corresponding to branch id (4): {ID=4, Code=T2, Name=Test Branch Two}
+2019-08-27 17:20:44 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:20:44 INFO  BranchMainPage:120 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:20:44 INFO  BranchMainPage:122 - # Entered branch name: BranchThree
+2019-08-27 17:20:44 INFO  BranchMainPage:124 - # Entered branch code: T3
+2019-08-27 17:20:44 INFO  BranchMainPage:135 - # Clicked on 'Save' button
+2019-08-27 17:20:45 INFO  BranchMainPage:77 - # Newly Created Branch's Id: 5
+2019-08-27 17:20:45 INFO  BranchMainPage:170 - # Branch info corresponding to branch id (5): {ID=5, Code=T3, Name=BranchThree}
+2019-08-27 17:20:51 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:20:51 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:20:52 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:20:52 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:20:52 INFO  BranchMainPage:135 - # Clicked on 'Search a Branch' button
+2019-08-27 17:20:52 INFO  BranchMainPage:322 - # Performed branch search for 'BranchThree'
+2019-08-27 17:20:52 INFO  BranchMainPage:366 - # Row 1: [5, BranchThree, T3]
+2019-08-27 17:20:57 INFO  BranchMainPage:370 - # List of rows: [[5, BranchThree, T3]]
+2019-08-27 17:21:03 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:21:03 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:21:03 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:21:03 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:21:04 INFO  BranchMainPage:135 - # Clicked on 'Search a Branch' button
+2019-08-27 17:21:04 INFO  BranchMainPage:322 - # Performed branch search for 'Branch'
+2019-08-27 17:21:04 INFO  BranchMainPage:366 - # Row 1: [4, Test Branch Two, T2]
+2019-08-27 17:21:04 INFO  BranchMainPage:366 - # Row 2: [3, Test Branch One, T1]
+2019-08-27 17:21:09 INFO  BranchMainPage:370 - # List of rows: [[4, Test Branch Two, T2], [3, Test Branch One, T1]]
+2019-08-27 17:21:15 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:21:15 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:21:15 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:21:15 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:21:16 INFO  BranchMainPage:135 - # Clicked on 'Search a Branch' button
+2019-08-27 17:21:16 INFO  BranchMainPage:322 - # Performed branch search for 'BRANCHTHREE'
+2019-08-27 17:21:16 INFO  BranchMainPage:366 - # Row 1: [5, BranchThree, T3]
+2019-08-27 17:21:21 INFO  BranchMainPage:370 - # List of rows: [[5, BranchThree, T3]]
+2019-08-27 17:21:27 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:21:27 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:21:27 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:21:27 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:21:28 INFO  BranchMainPage:135 - # Clicked on 'Search a Branch' button
+2019-08-27 17:21:28 INFO  BranchMainPage:322 - # Performed branch search for 'T1'
+2019-08-27 17:21:28 INFO  BranchMainPage:366 - # Row 1: [3, Test Branch One, T1]
+2019-08-27 17:21:33 INFO  BranchMainPage:370 - # List of rows: [[3, Test Branch One, T1]]
+2019-08-27 17:21:38 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:21:39 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:21:39 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:21:39 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:21:39 INFO  BranchMainPage:135 - # Clicked on 'Search a Branch' button
+2019-08-27 17:21:39 INFO  BranchMainPage:322 - # Performed branch search for 'One Two'
+2019-08-27 17:21:39 INFO  BranchMainPage:366 - # Row 1: [4, Test Branch Two, T2]
+2019-08-27 17:21:40 INFO  BranchMainPage:366 - # Row 2: [3, Test Branch One, T1]
+2019-08-27 17:21:45 INFO  BranchMainPage:370 - # List of rows: [[4, Test Branch Two, T2], [3, Test Branch One, T1]]
+2019-08-27 17:21:45 INFO  BranchMainPage:366 - # Row 1: [4, Test Branch Two, T2]
+2019-08-27 17:21:45 INFO  BranchMainPage:366 - # Row 2: [3, Test Branch One, T1]
+2019-08-27 17:21:50 INFO  BranchMainPage:370 - # List of rows: [[4, Test Branch Two, T2], [3, Test Branch One, T1]]
+2019-08-27 17:21:56 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:21:56 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:21:56 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:21:56 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:21:57 INFO  BranchMainPage:135 - # Clicked on 'Search a Branch' button
+2019-08-27 17:21:57 INFO  BranchMainPage:322 - # Performed branch search for '5'
+2019-08-27 17:21:57 INFO  BranchMainPage:366 - # Row 1: [5, BranchThree, T3]
+2019-08-27 17:22:02 INFO  BranchMainPage:370 - # List of rows: [[5, BranchThree, T3]]
+2019-08-27 17:22:08 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:22:08 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:22:08 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:22:08 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:22:09 INFO  BranchMainPage:135 - # Clicked on 'Search a Branch' button
+2019-08-27 17:22:09 INFO  BranchMainPage:322 - # Performed branch search for '!One'
+2019-08-27 17:22:09 INFO  BranchMainPage:366 - # Row 1: [17, oneBRANCHSELENIUM, 77]
+2019-08-27 17:22:09 INFO  BranchMainPage:366 - # Row 2: [24, oneBRANCHSELENIUM, 77]
+2019-08-27 17:22:09 INFO  BranchMainPage:366 - # Row 3: [29, threeBRANCHSELENIUM, 9999]
+2019-08-27 17:22:09 INFO  BranchMainPage:366 - # Row 4: [31, twoBRANCHSELENIUM, 888]
+2019-08-27 17:22:09 INFO  BranchMainPage:366 - # Row 5: [36, oneBRANCHSELENIUM, 77]
+2019-08-27 17:22:09 INFO  BranchMainPage:366 - # Row 6: [43, oneBRANCHSELENIUM, 77]
+2019-08-27 17:22:09 INFO  BranchMainPage:366 - # Row 7: [48, twoBRANCHSELENIUM, 888]
+2019-08-27 17:22:09 INFO  BranchMainPage:366 - # Row 8: [12, BranchTwoForStaff, 122]
+2019-08-27 17:22:10 INFO  BranchMainPage:366 - # Row 9: [5, BranchThree, T3]
+2019-08-27 17:22:10 INFO  BranchMainPage:366 - # Row 10: [16, threeBRANCHSELENIUM, 9999]
+2019-08-27 17:22:10 INFO  BranchMainPage:366 - # Row 11: [23, threeBRANCHSELENIUM, 9999]
+2019-08-27 17:22:10 INFO  BranchMainPage:366 - # Row 12: [35, threeBRANCHSELENIUM, 9999]
+2019-08-27 17:22:10 INFO  BranchMainPage:366 - # Row 13: [28, twoBRANCHSELENIUM, 888]
+2019-08-27 17:22:10 INFO  BranchMainPage:366 - # Row 14: [30, oneBRANCHSELENIUM, 77]
+2019-08-27 17:22:10 INFO  BranchMainPage:366 - # Row 15: [42, oneBRANCHSELENIUM, 77]
+2019-08-27 17:22:10 INFO  BranchMainPage:366 - # Row 16: [47, oneBRANCHSELENIUM, 77]
+2019-08-27 17:22:11 INFO  BranchMainPage:366 - # Row 17: [11, BranchOneForStaff, 111]
+2019-08-27 17:22:11 INFO  BranchMainPage:366 - # Row 18: [9, BranchTwoForStaff, 122]
+2019-08-27 17:22:11 INFO  BranchMainPage:366 - # Row 19: [4, Test Branch Two, T2]
+2019-08-27 17:22:11 INFO  BranchMainPage:366 - # Row 20: [14, threeBRANCHSELENIUM, 9999]
+2019-08-27 17:22:11 INFO  BranchMainPage:366 - # Row 21: [26, threeBRANCHSELENIUM, 9999]
+2019-08-27 17:22:11 INFO  BranchMainPage:366 - # Row 22: [38, threeBRANCHSELENIUM, 9999]
+2019-08-27 17:22:11 INFO  BranchMainPage:366 - # Row 23: [19, twoBRANCHSELENIUM, 888]
+2019-08-27 17:22:11 INFO  BranchMainPage:366 - # Row 24: [40, twoBRANCHSELENIUM, 888]
+2019-08-27 17:22:11 INFO  BranchMainPage:366 - # Row 25: [45, twoBRANCHSELENIUM, 888]
+2019-08-27 17:22:11 INFO  BranchMainPage:366 - # Row 26: [21, oneBRANCHSELENIUM, 77]
+2019-08-27 17:22:12 INFO  BranchMainPage:366 - # Row 27: [33, oneBRANCHSELENIUM, 77]
+2019-08-27 17:22:12 INFO  BranchMainPage:366 - # Row 28: [7, threeBRANCHSELENIUM, 9999]
+2019-08-27 17:22:12 INFO  BranchMainPage:366 - # Row 29: [2, Civil, ME]
+2019-08-27 17:22:12 INFO  BranchMainPage:366 - # Row 30: [20, threeBRANCHSELENIUM, 9999]
+2019-08-27 17:22:12 INFO  BranchMainPage:366 - # Row 31: [32, threeBRANCHSELENIUM, 9999]
+2019-08-27 17:22:12 INFO  BranchMainPage:366 - # Row 32: [49, threeBRANCHSELENIUM, 9999]
+2019-08-27 17:22:12 INFO  BranchMainPage:366 - # Row 33: [25, twoBRANCHSELENIUM, 888]
+2019-08-27 17:22:13 INFO  BranchMainPage:366 - # Row 34: [37, twoBRANCHSELENIUM, 888]
+2019-08-27 17:22:13 INFO  BranchMainPage:366 - # Row 35: [13, oneBRANCHSELENIUM, 77]
+2019-08-27 17:22:13 INFO  BranchMainPage:366 - # Row 36: [18, oneBRANCHSELENIUM, 77]
+2019-08-27 17:22:13 INFO  BranchMainPage:366 - # Row 37: [44, oneBRANCHSELENIUM, 77]
+2019-08-27 17:22:13 INFO  BranchMainPage:366 - # Row 38: [6, twoBRANCHSELENIUM, 888]
+2019-08-27 17:22:14 INFO  BranchMainPage:366 - # Row 39: [41, threeBRANCHSELENIUM, 9999]
+2019-08-27 17:22:14 INFO  BranchMainPage:366 - # Row 40: [46, threeBRANCHSELENIUM, 9999]
+2019-08-27 17:22:14 INFO  BranchMainPage:366 - # Row 41: [22, twoBRANCHSELENIUM, 888]
+2019-08-27 17:22:14 INFO  BranchMainPage:366 - # Row 42: [34, twoBRANCHSELENIUM, 888]
+2019-08-27 17:22:15 INFO  BranchMainPage:366 - # Row 43: [15, oneBRANCHSELENIUM, 77]
+2019-08-27 17:22:15 INFO  BranchMainPage:366 - # Row 44: [27, oneBRANCHSELENIUM, 77]
+2019-08-27 17:22:15 INFO  BranchMainPage:366 - # Row 45: [39, oneBRANCHSELENIUM, 77]
+2019-08-27 17:22:15 INFO  BranchMainPage:366 - # Row 46: [10, threeBRANCHSELENIUM, 9999]
+2019-08-27 17:22:16 INFO  BranchMainPage:366 - # Row 47: [8, BranchOneForStaff, 111]
+2019-08-27 17:22:21 INFO  BranchMainPage:370 - # List of rows: [[17, oneBRANCHSELENIUM, 77], [24, oneBRANCHSELENIUM, 77], [29, threeBRANCHSELENIUM, 9999], [31, twoBRANCHSELENIUM, 888], [36, oneBRANCHSELENIUM, 77], [43, oneBRANCHSELENIUM, 77], [48, twoBRANCHSELENIUM, 888], [12, BranchTwoForStaff, 122], [5, BranchThree, T3], [16, threeBRANCHSELENIUM, 9999], [23, threeBRANCHSELENIUM, 9999], [35, threeBRANCHSELENIUM, 9999], [28, twoBRANCHSELENIUM, 888], [30, oneBRANCHSELENIUM, 77], [42, oneBRANCHSELENIUM, 77], [47, oneBRANCHSELENIUM, 77], [11, BranchOneForStaff, 111], [9, BranchTwoForStaff, 122], [4, Test Branch Two, T2], [14, threeBRANCHSELENIUM, 9999], [26, threeBRANCHSELENIUM, 9999], [38, threeBRANCHSELENIUM, 9999], [19, twoBRANCHSELENIUM, 888], [40, twoBRANCHSELENIUM, 888], [45, twoBRANCHSELENIUM, 888], [21, oneBRANCHSELENIUM, 77], [33, oneBRANCHSELENIUM, 77], [7, threeBRANCHSELENIUM, 9999], [2, Civil, ME], [20, threeBRANCHSELENIUM, 9999], [32, threeBRANCHSELENIUM, 9999], [49, threeBRANCHSELENIUM, 9999], [25, twoBRANCHSELENIUM, 888], [37, twoBRANCHSELENIUM, 888], [13, oneBRANCHSELENIUM, 77], [18, oneBRANCHSELENIUM, 77], [44, oneBRANCHSELENIUM, 77], [6, twoBRANCHSELENIUM, 888], [41, threeBRANCHSELENIUM, 9999], [46, threeBRANCHSELENIUM, 9999], [22, twoBRANCHSELENIUM, 888], [34, twoBRANCHSELENIUM, 888], [15, oneBRANCHSELENIUM, 77], [27, oneBRANCHSELENIUM, 77], [39, oneBRANCHSELENIUM, 77], [10, threeBRANCHSELENIUM, 9999], [8, BranchOneForStaff, 111]]
+2019-08-27 17:22:26 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:22:27 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:22:27 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:22:27 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:22:27 INFO  BranchMainPage:135 - # Clicked on 'Search a Branch' button
+2019-08-27 17:22:27 INFO  BranchMainPage:322 - # Performed branch search for 'doesNotExist'
+2019-08-27 17:22:32 INFO  BranchMainPage:370 - # List of rows: []
+2019-08-27 17:22:38 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:22:38 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:22:39 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:22:39 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 17:22:39 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:22:39 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:22:39 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:22:40 INFO  BranchMainPage:120 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:22:40 INFO  BranchMainPage:122 - # Entered branch name: Associated Branch
+2019-08-27 17:22:40 INFO  BranchMainPage:124 - # Entered branch code: AS
+2019-08-27 17:22:40 INFO  BranchMainPage:135 - # Clicked on 'Save' button
+2019-08-27 17:22:41 INFO  BranchMainPage:77 - # Newly Created Branch's Id: 6
+2019-08-27 17:22:41 INFO  BranchMainPage:170 - # Branch info corresponding to branch id (6): {ID=6, Code=AS, Name=Associated Branch}
+2019-08-27 17:22:41 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:22:41 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 17:22:41 INFO  StaffMainPage:336 - # Clicked on 'Create' button
+2019-08-27 17:22:42 INFO  StaffMainPage:288 - # User is on 'Create or edit a Staff' form
+2019-08-27 17:22:42 INFO  StaffMainPage:290 - # Entered staff name: Test Staff One
+2019-08-27 17:22:42 INFO  StaffMainPage:292 - # Select branch name: Associated Branch
+2019-08-27 17:22:42 INFO  StaffMainPage:336 - # Clicked on 'Save' button
+2019-08-27 17:22:43 INFO  StaffMainPage:76 - # Newly Created Staff's Id: 2
+2019-08-27 17:22:43 INFO  StaffMainPage:251 - # Staff info corresponding to staff id (2): {Branch=Associated Branch, ID=2, Name=Test Staff One}
+2019-08-27 17:22:43 INFO  StaffMainPage:336 - # Clicked on 'Create' button
+2019-08-27 17:22:44 INFO  StaffMainPage:288 - # User is on 'Create or edit a Staff' form
+2019-08-27 17:22:44 INFO  StaffMainPage:290 - # Entered staff name: Test Staff Two
+2019-08-27 17:22:44 INFO  StaffMainPage:292 - # Select branch name: Associated Branch
+2019-08-27 17:22:45 INFO  StaffMainPage:336 - # Clicked on 'Save' button
+2019-08-27 17:22:45 INFO  StaffMainPage:76 - # Newly Created Staff's Id: 3
+2019-08-27 17:22:46 INFO  StaffMainPage:251 - # Staff info corresponding to staff id (3): {Branch=Associated Branch, ID=3, Name=Test Staff Two}
+2019-08-27 17:22:46 INFO  StaffMainPage:336 - # Clicked on 'Create' button
+2019-08-27 17:22:46 INFO  StaffMainPage:288 - # User is on 'Create or edit a Staff' form
+2019-08-27 17:22:46 INFO  StaffMainPage:290 - # Entered staff name: StaffThree
+2019-08-27 17:22:46 INFO  StaffMainPage:292 - # Select branch name: Associated Branch
+2019-08-27 17:22:47 INFO  StaffMainPage:336 - # Clicked on 'Save' button
+2019-08-27 17:22:47 INFO  StaffMainPage:76 - # Newly Created Staff's Id: 4
+2019-08-27 17:22:48 INFO  StaffMainPage:251 - # Staff info corresponding to staff id (4): {Branch=Associated Branch, ID=4, Name=StaffThree}
+2019-08-27 17:22:54 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:22:54 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:22:54 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:22:54 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 17:22:55 INFO  StaffMainPage:336 - # Clicked on 'Search a Staff' button
+2019-08-27 17:22:55 INFO  StaffMainPage:355 - # Performed staff search for 'StaffThree'
+2019-08-27 17:22:55 INFO  StaffMainPage:376 - # Row 1: [4, StaffThree, ]
+2019-08-27 17:23:00 INFO  StaffMainPage:380 - # List of rows: [[4, StaffThree, ]]
+2019-08-27 17:23:05 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:23:06 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:23:06 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:23:06 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 17:23:06 INFO  StaffMainPage:336 - # Clicked on 'Search a Staff' button
+2019-08-27 17:23:06 INFO  StaffMainPage:355 - # Performed staff search for 'Staff'
+2019-08-27 17:23:06 INFO  StaffMainPage:376 - # Row 1: [3, Test Staff Two, ]
+2019-08-27 17:23:06 INFO  StaffMainPage:376 - # Row 2: [2, Test Staff One, ]
+2019-08-27 17:23:11 INFO  StaffMainPage:380 - # List of rows: [[3, Test Staff Two, ], [2, Test Staff One, ]]
+2019-08-27 17:23:17 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:23:17 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:23:18 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:23:18 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 17:23:18 INFO  StaffMainPage:336 - # Clicked on 'Search a Staff' button
+2019-08-27 17:23:18 INFO  StaffMainPage:355 - # Performed staff search for 'STAFFTHREE'
+2019-08-27 17:23:18 INFO  StaffMainPage:376 - # Row 1: [4, StaffThree, ]
+2019-08-27 17:23:23 INFO  StaffMainPage:380 - # List of rows: [[4, StaffThree, ]]
+2019-08-27 17:23:29 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:23:29 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:23:29 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:23:29 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 17:23:30 INFO  StaffMainPage:336 - # Clicked on 'Search a Staff' button
+2019-08-27 17:23:30 INFO  StaffMainPage:355 - # Performed staff search for 'Associated Branch'
+2019-08-27 17:23:35 INFO  StaffMainPage:380 - # List of rows: []
+2019-08-27 17:23:41 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:23:41 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:23:41 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:23:41 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 17:23:42 INFO  StaffMainPage:336 - # Clicked on 'Search a Staff' button
+2019-08-27 17:23:42 INFO  StaffMainPage:355 - # Performed staff search for 'One Two'
+2019-08-27 17:23:42 INFO  StaffMainPage:376 - # Row 1: [3, Test Staff Two, ]
+2019-08-27 17:23:42 INFO  StaffMainPage:376 - # Row 2: [2, Test Staff One, ]
+2019-08-27 17:23:47 INFO  StaffMainPage:380 - # List of rows: [[3, Test Staff Two, ], [2, Test Staff One, ]]
+2019-08-27 17:23:47 INFO  StaffMainPage:376 - # Row 1: [3, Test Staff Two, ]
+2019-08-27 17:23:47 INFO  StaffMainPage:376 - # Row 2: [2, Test Staff One, ]
+2019-08-27 17:23:52 INFO  StaffMainPage:380 - # List of rows: [[3, Test Staff Two, ], [2, Test Staff One, ]]
+2019-08-27 17:23:58 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:23:58 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:23:58 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:23:58 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 17:23:59 INFO  StaffMainPage:336 - # Clicked on 'Search a Staff' button
+2019-08-27 17:23:59 INFO  StaffMainPage:355 - # Performed staff search for '4'
+2019-08-27 17:23:59 INFO  StaffMainPage:376 - # Row 1: [22, THREESTAFFSELENIUM, ]
+2019-08-27 17:23:59 INFO  StaffMainPage:376 - # Row 2: [17, THREESTAFFSELENIUM, ]
+2019-08-27 17:23:59 INFO  StaffMainPage:376 - # Row 3: [4, StaffThree, ]
+2019-08-27 17:23:59 INFO  StaffMainPage:376 - # Row 4: [14, THREESTAFFSELENIUM, ]
+2019-08-27 17:23:59 INFO  StaffMainPage:376 - # Row 5: [25, THREESTAFFSELENIUM, ]
+2019-08-27 17:24:04 INFO  StaffMainPage:380 - # List of rows: [[22, THREESTAFFSELENIUM, ], [17, THREESTAFFSELENIUM, ], [4, StaffThree, ], [14, THREESTAFFSELENIUM, ], [25, THREESTAFFSELENIUM, ]]
+2019-08-27 17:24:10 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:24:10 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:24:11 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:24:11 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 17:24:11 INFO  StaffMainPage:336 - # Clicked on 'Search a Staff' button
+2019-08-27 17:24:11 INFO  StaffMainPage:355 - # Performed staff search for '!One'
+2019-08-27 17:24:11 INFO  StaffMainPage:376 - # Row 1: [15, oneSTAFFSELENIUM, ]
+2019-08-27 17:24:11 INFO  StaffMainPage:376 - # Row 2: [22, THREESTAFFSELENIUM, ]
+2019-08-27 17:24:11 INFO  StaffMainPage:376 - # Row 3: [27, twoSTAFFnullBranch, ]
+2019-08-27 17:24:11 INFO  StaffMainPage:376 - # Row 4: [10, twoStaffWithoutBranch, ]
+2019-08-27 17:24:12 INFO  StaffMainPage:376 - # Row 5: [8, twoStaffWithoutBranch, ]
+2019-08-27 17:24:12 INFO  StaffMainPage:376 - # Row 6: [3, Test Staff Two, ]
+2019-08-27 17:24:12 INFO  StaffMainPage:376 - # Row 7: [12, oneSTAFFSELENIUM, ]
+2019-08-27 17:24:12 INFO  StaffMainPage:376 - # Row 8: [17, THREESTAFFSELENIUM, ]
+2019-08-27 17:24:12 INFO  StaffMainPage:376 - # Row 9: [24, twoSTAFFSELENIUM, ]
+2019-08-27 17:24:12 INFO  StaffMainPage:376 - # Row 10: [5, twoSTAFFSELENIUM, ]
+2019-08-27 17:24:12 INFO  StaffMainPage:376 - # Row 11: [16, twoSTAFFSELENIUM, ]
+2019-08-27 17:24:12 INFO  StaffMainPage:376 - # Row 12: [23, oneSTAFFSELENIUM, ]
+2019-08-27 17:24:12 INFO  StaffMainPage:376 - # Row 13: [11, threeStaffWithoutBranch, ]
+2019-08-27 17:24:12 INFO  StaffMainPage:376 - # Row 14: [9, threeStaffWithoutBranch, ]
+2019-08-27 17:24:13 INFO  StaffMainPage:376 - # Row 15: [4, StaffThree, ]
+2019-08-27 17:24:13 INFO  StaffMainPage:376 - # Row 16: [14, THREESTAFFSELENIUM, ]
+2019-08-27 17:24:13 INFO  StaffMainPage:376 - # Row 17: [19, twoSTAFFnullBranch, ]
+2019-08-27 17:24:13 INFO  StaffMainPage:376 - # Row 18: [21, twoSTAFFSELENIUM, ]
+2019-08-27 17:24:13 INFO  StaffMainPage:376 - # Row 19: [26, oneSTAFFwithoutBranch, ]
+2019-08-27 17:24:13 INFO  StaffMainPage:376 - # Row 20: [7, oneStaffWithoutBranch, ]
+2019-08-27 17:24:13 INFO  StaffMainPage:376 - # Row 21: [13, twoSTAFFSELENIUM, ]
+2019-08-27 17:24:13 INFO  StaffMainPage:376 - # Row 22: [18, oneSTAFFwithoutBranch, ]
+2019-08-27 17:24:14 INFO  StaffMainPage:376 - # Row 23: [20, oneSTAFFSELENIUM, ]
+2019-08-27 17:24:14 INFO  StaffMainPage:376 - # Row 24: [25, THREESTAFFSELENIUM, ]
+2019-08-27 17:24:14 INFO  StaffMainPage:376 - # Row 25: [6, THREESTAFFSELENIUM, ]
+2019-08-27 17:24:14 INFO  StaffMainPage:376 - # Row 26: [1, Kannan, ]
+2019-08-27 17:24:19 INFO  StaffMainPage:380 - # List of rows: [[15, oneSTAFFSELENIUM, ], [22, THREESTAFFSELENIUM, ], [27, twoSTAFFnullBranch, ], [10, twoStaffWithoutBranch, ], [8, twoStaffWithoutBranch, ], [3, Test Staff Two, ], [12, oneSTAFFSELENIUM, ], [17, THREESTAFFSELENIUM, ], [24, twoSTAFFSELENIUM, ], [5, twoSTAFFSELENIUM, ], [16, twoSTAFFSELENIUM, ], [23, oneSTAFFSELENIUM, ], [11, threeStaffWithoutBranch, ], [9, threeStaffWithoutBranch, ], [4, StaffThree, ], [14, THREESTAFFSELENIUM, ], [19, twoSTAFFnullBranch, ], [21, twoSTAFFSELENIUM, ], [26, oneSTAFFwithoutBranch, ], [7, oneStaffWithoutBranch, ], [13, twoSTAFFSELENIUM, ], [18, oneSTAFFwithoutBranch, ], [20, oneSTAFFSELENIUM, ], [25, THREESTAFFSELENIUM, ], [6, THREESTAFFSELENIUM, ], [1, Kannan, ]]
+2019-08-27 17:24:25 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:24:25 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:24:25 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:24:25 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 17:24:26 INFO  StaffMainPage:336 - # Clicked on 'Search a Staff' button
+2019-08-27 17:24:26 INFO  StaffMainPage:355 - # Performed staff search for 'doesNotExist'
+2019-08-27 17:24:31 INFO  BranchMainPage:370 - # List of rows: []
+2019-08-27 17:24:36 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:24:37 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:24:37 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 17:24:37 INFO  WelcomePage:75 - # Clicked on 'Sessions' Menu Option
+2019-08-27 17:24:37 INFO  SessionsPage:39 - # Sessions page header: Active sessions for [admin]
+2019-08-27 17:24:43 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:24:43 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:24:43 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 17:24:43 INFO  WelcomePage:75 - # Clicked on 'Sessions' Menu Option
+2019-08-27 17:24:43 INFO  SessionsPage:50 - # Clicked on 'Invalidate' session button
+2019-08-27 17:24:43 INFO  SessionsPage:58 - # Success message: Session invalidated!
+2019-08-27 17:24:49 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:24:49 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:24:50 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 17:24:50 INFO  WelcomePage:75 - # Clicked on 'Settings' Menu Option
+2019-08-27 17:24:50 INFO  SettingsPage:46 - # Settings page header: User settings for [admin]
+2019-08-27 17:24:55 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:24:56 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:24:56 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 17:24:56 INFO  WelcomePage:75 - # Clicked on 'Settings' Menu Option
+2019-08-27 17:24:56 INFO  SettingsPage:79 - # Entered text in 'firstName': kannan
+2019-08-27 17:24:56 INFO  SettingsPage:79 - # Entered text in 'lastName': Kumar
+2019-08-27 17:24:56 INFO  SettingsPage:79 - # Entered text in 'email': unniqannan@gamil.com
+2019-08-27 17:24:56 INFO  SettingsPage:90 - # Selected language: English
+2019-08-27 17:24:56 INFO  SettingsPage:98 - # Clicked on 'Save' button
+2019-08-27 17:24:56 INFO  SettingsPage:109 - # Alert message: An error has occurred! Settings could not be saved.
+2019-08-27 17:25:02 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:25:02 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:25:03 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 17:25:03 INFO  WelcomePage:75 - # Clicked on 'Settings' Menu Option
+2019-08-27 17:25:03 INFO  SettingsPage:79 - # Entered text in 'firstName':  
+2019-08-27 17:25:03 INFO  SettingsPage:123 - # Validation message for 'firstName': Your first name is required.
+2019-08-27 17:25:03 INFO  SettingsPage:133 - # 'Save' button is disabled
+2019-08-27 17:25:08 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:25:09 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:25:09 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 17:25:09 INFO  WelcomePage:75 - # Clicked on 'Settings' Menu Option
+2019-08-27 17:25:09 INFO  SettingsPage:79 - # Entered text in 'firstName': 
+2019-08-27 17:25:09 INFO  SettingsPage:123 - # Validation message for 'firstName': Your first name is required.
+2019-08-27 17:25:15 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:25:16 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:25:16 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 17:25:16 INFO  WelcomePage:75 - # Clicked on 'Settings' Menu Option
+2019-08-27 17:25:16 INFO  SettingsPage:79 - # Entered text in 'firstName': this text is to test the maximum limit of the First Name text field
+2019-08-27 17:25:27 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:25:27 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:25:27 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 17:25:27 INFO  WelcomePage:75 - # Clicked on 'Settings' Menu Option
+2019-08-27 17:25:28 INFO  SettingsPage:79 - # Entered text in 'lastName':  
+2019-08-27 17:25:28 INFO  SettingsPage:123 - # Validation message for 'lastName': Your last name is required.
+2019-08-27 17:25:28 INFO  SettingsPage:133 - # 'Save' button is disabled
+2019-08-27 17:25:33 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:25:33 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:25:34 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 17:25:34 INFO  WelcomePage:75 - # Clicked on 'Settings' Menu Option
+2019-08-27 17:25:34 INFO  SettingsPage:79 - # Entered text in 'lastName': 
+2019-08-27 17:25:34 INFO  SettingsPage:123 - # Validation message for 'lastName': Your last name is required.
+2019-08-27 17:25:40 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:25:40 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:25:40 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 17:25:40 INFO  WelcomePage:75 - # Clicked on 'Settings' Menu Option
+2019-08-27 17:25:40 INFO  SettingsPage:79 - # Entered text in 'lastName': this text is to test the maximum limit of the Last Name text field
+2019-08-27 17:25:51 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:25:51 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:25:52 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 17:25:52 INFO  WelcomePage:75 - # Clicked on 'Settings' Menu Option
+2019-08-27 17:25:52 INFO  SettingsPage:79 - # Entered text in 'email':  
+2019-08-27 17:25:52 INFO  SettingsPage:123 - # Validation message for 'email': Your e-mail is required.
+2019-08-27 17:25:52 INFO  SettingsPage:133 - # 'Save' button is disabled
+2019-08-27 17:25:57 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:25:58 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:25:58 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 17:25:58 INFO  WelcomePage:75 - # Clicked on 'Settings' Menu Option
+2019-08-27 17:25:58 INFO  SettingsPage:79 - # Entered text in 'email': a@b
+2019-08-27 17:25:58 INFO  SettingsPage:123 - # Validation message for 'email': Your e-mail is required to be at least 5 characters.
+2019-08-27 17:25:58 INFO  SettingsPage:133 - # 'Save' button is disabled
+2019-08-27 17:26:04 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:26:04 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:26:04 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 17:26:04 INFO  WelcomePage:75 - # Clicked on 'Settings' Menu Option
+2019-08-27 17:26:04 INFO  SettingsPage:79 - # Entered text in 'email': abcdef
+2019-08-27 17:26:04 INFO  SettingsPage:123 - # Validation message for 'email': Your e-mail is invalid.
+2019-08-27 17:26:04 INFO  SettingsPage:133 - # 'Save' button is disabled
+2019-08-27 17:26:11 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:26:11 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:26:11 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 17:26:11 INFO  WelcomePage:75 - # Clicked on 'Settings' Menu Option
+2019-08-27 17:26:11 INFO  SettingsPage:79 - # Entered text in 'email': ThisEmailIsToValidateTheMaximumLimitOfEmail@TextField.com
+2019-08-27 17:26:22 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:26:22 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:26:23 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:26:23 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 17:26:23 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:26:23 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:26:23 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:26:24 INFO  BranchMainPage:120 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:26:24 INFO  BranchMainPage:122 - # Entered branch name: Computer Science
+2019-08-27 17:26:24 INFO  BranchMainPage:124 - # Entered branch code: CS
+2019-08-27 17:26:24 INFO  BranchMainPage:135 - # Clicked on 'Save' button
+2019-08-27 17:26:25 INFO  BranchMainPage:77 - # Newly Created Branch's Id: 7
+2019-08-27 17:26:25 INFO  BranchMainPage:170 - # Branch info corresponding to branch id (7): {ID=7, Code=CS, Name=Computer Science}
+2019-08-27 17:26:31 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:26:31 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:26:31 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:26:31 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 17:26:31 INFO  StaffMainPage:57 - # Staff page header: Staffs
+2019-08-27 17:26:37 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:26:37 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:26:37 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:26:37 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 17:26:38 INFO  StaffMainPage:336 - # Clicked on 'Create' button
+2019-08-27 17:26:38 INFO  StaffMainPage:228 - # User is on 'Create or edit a Staff' form
+2019-08-27 17:26:38 INFO  StaffMainPage:231 - # Validation message for 'Name': This field is required.
+2019-08-27 17:26:38 INFO  StaffMainPage:344 - # 'Save' button is disabled.
+2019-08-27 17:26:44 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:26:44 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:26:45 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:26:45 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 17:26:45 INFO  StaffMainPage:336 - # Clicked on 'Create' button
+2019-08-27 17:26:45 INFO  StaffMainPage:228 - # User is on 'Create or edit a Staff' form
+2019-08-27 17:26:57 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:26:57 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:26:57 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:26:58 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 17:26:58 INFO  StaffMainPage:336 - # Clicked on 'Create' button
+2019-08-27 17:26:58 INFO  StaffMainPage:228 - # User is on 'Create or edit a Staff' form
+2019-08-27 17:26:58 INFO  StaffMainPage:231 - # Validation message for 'Name': This field cannot be longer than 50 characters.
+2019-08-27 17:26:58 INFO  StaffMainPage:344 - # 'Save' button is disabled.
+2019-08-27 17:27:04 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:27:05 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:27:05 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:27:05 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 17:27:05 INFO  StaffMainPage:336 - # Clicked on 'Create' button
+2019-08-27 17:27:06 INFO  StaffMainPage:228 - # User is on 'Create or edit a Staff' form
+2019-08-27 17:27:06 INFO  StaffMainPage:231 - # Validation message for 'Name': This field should follow pattern ^[a-zA-Z\s]*$.
+2019-08-27 17:27:06 INFO  StaffMainPage:344 - # 'Save' button is disabled.
+2019-08-27 17:27:12 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:27:12 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:27:13 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:27:13 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 17:27:13 INFO  StaffMainPage:336 - # Clicked on 'Create' button
+2019-08-27 17:27:14 INFO  StaffMainPage:228 - # User is on 'Create or edit a Staff' form
+2019-08-27 17:27:14 INFO  StaffMainPage:231 - # Validation message for 'Name': This field should follow pattern ^[a-zA-Z\s]*$.
+2019-08-27 17:27:14 INFO  StaffMainPage:344 - # 'Save' button is disabled.
+2019-08-27 17:27:19 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:27:20 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:27:20 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:27:20 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 17:27:20 INFO  StaffMainPage:336 - # Clicked on 'Create' button
+2019-08-27 17:27:21 INFO  StaffMainPage:288 - # User is on 'Create or edit a Staff' form
+2019-08-27 17:27:21 INFO  StaffMainPage:290 - # Entered staff name: Unni Kannan
+2019-08-27 17:27:21 INFO  StaffMainPage:292 - # Select branch name: Computer Science
+2019-08-27 17:27:21 INFO  StaffMainPage:336 - # Clicked on 'Save' button
+2019-08-27 17:27:22 INFO  StaffMainPage:76 - # Newly Created Staff's Id: 5
+2019-08-27 17:27:22 INFO  StaffMainPage:251 - # Staff info corresponding to staff id (5): {Branch=Computer Science, ID=5, Name=Unni Kannan}
+2019-08-27 17:27:28 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:27:28 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:27:28 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:27:28 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 17:27:29 INFO  StaffMainPage:336 - # Clicked on 'Create' button
+2019-08-27 17:27:29 INFO  StaffMainPage:288 - # User is on 'Create or edit a Staff' form
+2019-08-27 17:27:29 INFO  StaffMainPage:290 - # Entered staff name: Unni Kannan
+2019-08-27 17:27:29 INFO  StaffMainPage:292 - # Select branch name: Computer Science
+2019-08-27 17:27:30 INFO  StaffMainPage:336 - # Clicked on 'Cancel' button
+2019-08-27 17:27:35 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:27:36 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:27:36 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:27:36 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 17:27:36 INFO  StaffMainPage:152 - # Clicked on id link: 5
+2019-08-27 17:27:36 INFO  StaffDetailPage:37 - # Staff Details page header: Staff 5
+2019-08-27 17:27:42 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:27:42 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:27:42 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:27:43 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 17:27:43 INFO  StaffMainPage:166 - # Clicked on 'View' button corresponding to id: 5
+2019-08-27 17:27:43 INFO  StaffDetailPage:37 - # Staff Details page header: Staff 5
+2019-08-27 17:27:48 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:27:49 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:27:49 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:27:49 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 17:27:49 INFO  StaffMainPage:166 - # Clicked on 'Edit' button corresponding to id: 5
+2019-08-27 17:27:56 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:27:56 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:27:57 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:27:57 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 17:27:57 INFO  StaffMainPage:166 - # Clicked on 'Edit' button corresponding to id: 5
+2019-08-27 17:27:58 INFO  StaffMainPage:288 - # User is on 'Create or edit a Staff' form
+2019-08-27 17:27:58 INFO  StaffMainPage:290 - # Entered staff name: Raj
+2019-08-27 17:27:58 INFO  StaffMainPage:292 - # Select branch name: Computer Science
+2019-08-27 17:27:58 INFO  StaffMainPage:336 - # Clicked on 'Cancel' button
+2019-08-27 17:27:58 INFO  StaffMainPage:108 - # Updated staff details
+2019-08-27 17:27:58 INFO  StaffMainPage:251 - # Staff info corresponding to staff id (5): {Branch=Computer Science, ID=5, Name=Unni Kannan}
+2019-08-27 17:28:04 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:28:05 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:28:05 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:28:05 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 17:28:05 INFO  StaffMainPage:166 - # Clicked on 'Edit' button corresponding to id: 5
+2019-08-27 17:28:06 INFO  StaffMainPage:288 - # User is on 'Create or edit a Staff' form
+2019-08-27 17:28:06 INFO  StaffMainPage:290 - # Entered staff name: Raj
+2019-08-27 17:28:06 INFO  StaffMainPage:292 - # Select branch name: Computer Science
+2019-08-27 17:28:06 INFO  StaffMainPage:336 - # Clicked on 'Save' button
+2019-08-27 17:28:07 INFO  StaffMainPage:108 - # Updated staff details
+2019-08-27 17:28:07 INFO  StaffMainPage:251 - # Staff info corresponding to staff id (5): {Branch=Computer Science, ID=5, Name=Raj}
+2019-08-27 17:28:13 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:28:13 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:28:14 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:28:14 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 17:28:14 INFO  StaffMainPage:251 - # Staff info corresponding to staff id (5): {Branch=Computer Science, ID=5, Name=Raj}
+2019-08-27 17:28:14 INFO  StaffMainPage:166 - # Clicked on 'Delete' button corresponding to id: 5
+2019-08-27 17:28:14 INFO  StaffMainPage:198 - # Delete confirmation modal: Are you sure you want to delete Staff 5?
+2019-08-27 17:28:14 INFO  StaffMainPage:212 - # Clicked on 'Cancel' button on Delete confirmation modal
+2019-08-27 17:28:14 INFO  StaffMainPage:251 - # Staff info corresponding to staff id (5): {Branch=Computer Science, ID=5, Name=Raj}
+2019-08-27 17:28:20 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:28:20 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:28:21 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:28:21 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 17:28:21 INFO  StaffMainPage:166 - # Clicked on 'Delete' button corresponding to id: 5
+2019-08-27 17:28:21 INFO  StaffMainPage:198 - # Delete confirmation modal: Are you sure you want to delete Staff 5?
+2019-08-27 17:28:21 INFO  StaffMainPage:212 - # Clicked on 'Delete' button on Delete confirmation modal
+2019-08-27 17:28:32 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:28:33 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:28:33 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 17:28:33 INFO  WelcomePage:75 - # Clicked on 'Password' Menu Option
+2019-08-27 17:28:33 INFO  UpdatePasswordPage:47 - # Pasword page header: Password for [admin]
+2019-08-27 17:28:39 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:28:39 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:28:40 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 17:28:40 INFO  WelcomePage:75 - # Clicked on 'Password' Menu Option
+2019-08-27 17:28:40 INFO  UpdatePasswordPage:75 - # Entered text in 'password': Test#123
+2019-08-27 17:28:40 INFO  UpdatePasswordPage:75 - # Entered text in 'confirmPassword': Test#123
+2019-08-27 17:28:40 INFO  UpdatePasswordPage:83 - # Clicked on 'Save' button
+2019-08-27 17:28:40 INFO  UpdatePasswordPage:103 - # Alert message: An error has occurred! The password could not be changed.
+2019-08-27 17:28:46 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:28:46 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:28:47 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 17:28:47 INFO  WelcomePage:75 - # Clicked on 'Password' Menu Option
+2019-08-27 17:28:47 INFO  UpdatePasswordPage:75 - # Entered text in 'password': A
+2019-08-27 17:28:47 INFO  UpdatePasswordPage:116 - # Validation message for 'password': Your password is required to be at least 5 characters.
+2019-08-27 17:28:47 INFO  UpdatePasswordPage:126 - # 'Save' button is disabled
+2019-08-27 17:28:53 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:28:53 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:28:53 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 17:28:53 INFO  WelcomePage:75 - # Clicked on 'Password' Menu Option
+2019-08-27 17:28:53 INFO  UpdatePasswordPage:75 - # Entered text in 'password': this text is to test the max limit of the password1
+2019-08-27 17:28:53 INFO  UpdatePasswordPage:116 - # Validation message for 'password': Your password cannot be longer than 50 characters.
+2019-08-27 17:28:53 INFO  UpdatePasswordPage:126 - # 'Save' button is disabled
+2019-08-27 17:28:59 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:28:59 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:29:00 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 17:29:00 INFO  WelcomePage:75 - # Clicked on 'Password' Menu Option
+2019-08-27 17:29:00 INFO  UpdatePasswordPage:75 - # Entered text in 'confirmPassword': A
+2019-08-27 17:29:00 INFO  UpdatePasswordPage:116 - # Validation message for 'confirmPassword': Your confirmation password is required to be at least 5 characters.
+2019-08-27 17:29:00 INFO  UpdatePasswordPage:126 - # 'Save' button is disabled
+2019-08-27 17:29:05 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:29:06 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:29:06 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 17:29:06 INFO  WelcomePage:75 - # Clicked on 'Password' Menu Option
+2019-08-27 17:29:06 INFO  UpdatePasswordPage:75 - # Entered text in 'confirmPassword': this text is to test the max limit of the password1
+2019-08-27 17:29:06 INFO  UpdatePasswordPage:116 - # Validation message for 'confirmPassword': Your confirmation password cannot be longer than 50 characters.
+2019-08-27 17:29:06 INFO  UpdatePasswordPage:126 - # 'Save' button is disabled
+2019-08-27 17:29:12 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:29:12 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:29:12 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 17:29:12 INFO  WelcomePage:75 - # Clicked on 'Password' Menu Option
+2019-08-27 17:29:12 INFO  UpdatePasswordPage:75 - # Entered text in 'password': req
+2019-08-27 17:29:12 INFO  UpdatePasswordPage:93 - # Cleared 'password' to verify required field validation
+2019-08-27 17:29:12 INFO  UpdatePasswordPage:116 - # Validation message for 'password': Your password is required.
+2019-08-27 17:29:12 INFO  UpdatePasswordPage:126 - # 'Save' button is disabled
+2019-08-27 17:29:18 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:29:18 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:29:19 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 17:29:19 INFO  WelcomePage:75 - # Clicked on 'Password' Menu Option
+2019-08-27 17:29:19 INFO  UpdatePasswordPage:75 - # Entered text in 'confirmPassword': req
+2019-08-27 17:29:19 INFO  UpdatePasswordPage:93 - # Cleared 'confirmPassword' to verify required field validation
+2019-08-27 17:29:19 INFO  UpdatePasswordPage:116 - # Validation message for 'confirmPassword': Your confirmation password is required.
+2019-08-27 17:29:19 INFO  UpdatePasswordPage:126 - # 'Save' button is disabled
+2019-08-27 17:29:25 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:29:25 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:29:25 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 17:29:25 INFO  WelcomePage:75 - # Clicked on 'Password' Menu Option
+2019-08-27 17:29:25 INFO  UpdatePasswordPage:75 - # Entered text in 'password': Test#123
+2019-08-27 17:29:25 INFO  UpdatePasswordPage:75 - # Entered text in 'confirmPassword': Abc#123
+2019-08-27 17:29:26 INFO  UpdatePasswordPage:83 - # Clicked on 'Save' button
+2019-08-27 17:29:26 INFO  UpdatePasswordPage:103 - # Alert message: The password and its confirmation do not match!
+2019-08-27 17:29:32 INFO  WelcomePage:37 - # Welcome page header: Welcome to Gurukula!
+2019-08-27 17:29:37 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:29:37 INFO  LoginPage:40 - # Login page header: Authentication
+2019-08-27 17:29:43 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 17:29:43 INFO  RegistrationPage:49 - # Registration page header: Registration
+2019-08-27 17:29:49 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 17:29:49 INFO  WelcomePage:75 - # Clicked on 'Authenticate' Menu Option
+2019-08-27 17:29:49 INFO  LoginPage:40 - # Login page header: Authentication
+2019-08-27 17:29:55 INFO  WelcomePage:37 - # Welcome page header: Welcome to Gurukula!
+2019-08-27 17:29:55 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 17:29:55 INFO  WelcomePage:75 - # Clicked on 'Register' Menu Option
+2019-08-27 17:29:55 INFO  RegistrationPage:49 - # Registration page header: Registration
+2019-08-27 17:33:29 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:33:29 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:33:29 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:33:29 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:33:30 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:33:30 INFO  BranchMainPage:120 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:33:30 INFO  BranchMainPage:122 - # Entered branch name: Computer Science
+2019-08-27 17:33:30 INFO  BranchMainPage:124 - # Entered branch code: CS
+2019-08-27 17:33:31 INFO  BranchMainPage:135 - # Clicked on 'Save' button
+2019-08-27 17:33:31 INFO  BranchMainPage:77 - # Newly Created Branch's Id: 8
+2019-08-27 17:33:31 INFO  BranchMainPage:170 - # Branch info corresponding to branch id (8): {ID=8, Code=CS, Name=Computer Science}
+2019-08-27 17:33:38 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:33:38 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:33:38 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:33:38 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:33:39 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:33:39 INFO  BranchMainPage:120 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:33:39 INFO  BranchMainPage:122 - # Entered branch name: Computer Science
+2019-08-27 17:33:39 INFO  BranchMainPage:124 - # Entered branch code: CS
+2019-08-27 17:33:40 INFO  BranchMainPage:135 - # Clicked on 'Cancel' button
+2019-08-27 17:33:46 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:33:46 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:33:47 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:34:51 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:34:52 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:34:52 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:34:52 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:34:52 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:34:53 INFO  BranchMainPage:120 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:34:53 INFO  BranchMainPage:122 - # Entered branch name: Computer Science
+2019-08-27 17:34:53 INFO  BranchMainPage:124 - # Entered branch code: CS
+2019-08-27 17:34:53 INFO  BranchMainPage:135 - # Clicked on 'Save' button
+2019-08-27 17:34:54 INFO  BranchMainPage:77 - # Newly Created Branch's Id: 9
+2019-08-27 17:34:54 INFO  BranchMainPage:170 - # Branch info corresponding to branch id (9): {ID=9, Code=CS, Name=Computer Science}
+2019-08-27 17:35:00 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:35:00 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:35:14 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:35:19 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:35:19 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:35:57 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:35:57 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:36:03 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:36:03 INFO  LoginPage:96 - # Login into application(!nv@lid, INVALID)
+2019-08-27 17:36:09 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:36:09 INFO  LoginPage:96 - # Login into application(admin, INVALID)
+2019-08-27 17:36:16 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:36:16 INFO  LoginPage:96 - # Login into application(INVALID, admin)
+2019-08-27 17:36:22 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:36:23 INFO  LoginPage:96 - # Login into application(, )
+2019-08-27 17:36:29 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:36:29 INFO  LoginPage:96 - # Login into application(admin, )
+2019-08-27 17:36:35 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:36:35 INFO  LoginPage:96 - # Login into application(, admin)
+2019-08-27 17:36:42 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:36:42 INFO  LoginPage:83 - # Clicked on link: Did you forget your password?
+2019-08-27 17:36:42 INFO  ResetPasswordPage:42 - # Reset Password page header: Reset your password
+2019-08-27 17:36:49 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:36:49 INFO  LoginPage:83 - # Clicked on link: Register a new account
+2019-08-27 17:36:49 INFO  RegistrationPage:49 - # Registration page header: Registration
+2019-08-27 17:44:08 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:44:08 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:44:14 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:44:14 INFO  LoginPage:96 - # Login into application(!nv@lid, INVALID)
+2019-08-27 17:44:20 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:44:21 INFO  LoginPage:96 - # Login into application(admin, INVALID)
+2019-08-27 17:44:27 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:44:27 INFO  LoginPage:96 - # Login into application(INVALID, admin)
+2019-08-27 17:44:33 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:44:33 INFO  LoginPage:96 - # Login into application(, )
+2019-08-27 17:44:40 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:44:40 INFO  LoginPage:96 - # Login into application(admin, )
+2019-08-27 17:44:47 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:44:47 INFO  LoginPage:96 - # Login into application(, admin)
+2019-08-27 17:44:53 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:44:53 INFO  LoginPage:83 - # Clicked on link: Did you forget your password?
+2019-08-27 17:44:53 INFO  ResetPasswordPage:42 - # Reset Password page header: Reset your password
+2019-08-27 17:44:59 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:44:59 INFO  LoginPage:83 - # Clicked on link: Register a new account
+2019-08-27 17:45:00 INFO  RegistrationPage:49 - # Registration page header: Registration
+2019-08-27 17:54:36 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:54:36 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:54:43 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:54:43 INFO  LoginPage:96 - # Login into application(!nv@lid, INVALID)
+2019-08-27 17:54:49 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:54:50 INFO  LoginPage:96 - # Login into application(admin, INVALID)
+2019-08-27 17:54:56 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:54:56 INFO  LoginPage:96 - # Login into application(INVALID, admin)
+2019-08-27 17:55:02 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:55:02 INFO  LoginPage:96 - # Login into application(, )
+2019-08-27 17:55:08 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:55:09 INFO  LoginPage:96 - # Login into application(admin, )
+2019-08-27 17:58:10 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:58:10 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:58:11 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:58:11 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:58:11 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:58:12 INFO  BranchMainPage:120 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:58:12 INFO  BranchMainPage:122 - # Entered branch name: Computer Science
+2019-08-27 17:58:12 INFO  BranchMainPage:124 - # Entered branch code: CS
+2019-08-27 17:58:12 INFO  BranchMainPage:135 - # Clicked on 'Save' button
+2019-08-27 17:58:13 INFO  BranchMainPage:77 - # Newly Created Branch's Id: 1
+2019-08-27 17:58:13 INFO  BranchMainPage:170 - # Branch info corresponding to branch id (1): {ID=1, Code=CS, Name=Computer Science}
+2019-08-27 17:58:19 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:58:19 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:58:19 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:58:19 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:58:20 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:58:20 INFO  BranchMainPage:120 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:58:20 INFO  BranchMainPage:122 - # Entered branch name: Computer Science
+2019-08-27 17:58:20 INFO  BranchMainPage:124 - # Entered branch code: CS
+2019-08-27 17:58:21 INFO  BranchMainPage:135 - # Clicked on 'Cancel' button
+2019-08-27 17:58:27 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:58:27 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:58:28 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:58:28 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:58:28 INFO  BranchMainPage:58 - # Branch page header: Branches
+2019-08-27 17:58:33 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:58:34 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:58:34 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:58:34 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:58:34 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:58:35 INFO  BranchMainPage:296 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:58:35 INFO  BranchMainPage:301 - # Validation message for 'name': This field is required.
+2019-08-27 17:58:35 INFO  BranchMainPage:311 - # 'Save' button is disabled
+2019-08-27 17:58:41 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:58:41 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:58:41 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:58:41 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:58:41 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:58:42 INFO  BranchMainPage:296 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:58:42 INFO  BranchMainPage:301 - # Validation message for 'name': This field is required to be at least 5 characters.
+2019-08-27 17:58:42 INFO  BranchMainPage:311 - # 'Save' button is disabled
+2019-08-27 17:58:48 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:58:48 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:58:48 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:58:48 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:58:49 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:58:49 INFO  BranchMainPage:296 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:58:49 INFO  BranchMainPage:301 - # Validation message for 'name': This field should follow pattern ^[a-zA-Z\s]*$.
+2019-08-27 17:58:49 INFO  BranchMainPage:311 - # 'Save' button is disabled
+2019-08-27 17:58:55 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:58:55 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:58:56 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:58:56 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:58:56 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:58:56 INFO  BranchMainPage:296 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:58:57 INFO  BranchMainPage:301 - # Validation message for 'name': This field should follow pattern ^[a-zA-Z\s]*$.
+2019-08-27 17:58:57 INFO  BranchMainPage:311 - # 'Save' button is disabled
+2019-08-27 17:59:02 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:59:02 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:59:03 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:59:03 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:59:03 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:59:04 INFO  BranchMainPage:296 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:59:04 INFO  BranchMainPage:301 - # Validation message for 'name': This field cannot be longer than 20 characters.
+2019-08-27 17:59:04 INFO  BranchMainPage:311 - # 'Save' button is disabled
+2019-08-27 17:59:10 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:59:10 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:59:11 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:59:11 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:59:11 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:59:11 INFO  BranchMainPage:296 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:59:11 INFO  BranchMainPage:301 - # Validation message for 'code': This field is required.
+2019-08-27 17:59:11 INFO  BranchMainPage:311 - # 'Save' button is disabled
+2019-08-27 17:59:18 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:59:18 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:59:18 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:59:18 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:59:19 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:59:19 INFO  BranchMainPage:296 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:59:19 INFO  BranchMainPage:301 - # Validation message for 'code': This field is required to be at least 2 characters.
+2019-08-27 17:59:19 INFO  BranchMainPage:311 - # 'Save' button is disabled
+2019-08-27 17:59:25 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:59:26 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:59:26 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:59:26 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:59:26 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:59:27 INFO  BranchMainPage:296 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:59:27 INFO  BranchMainPage:301 - # Validation message for 'code': This field should follow pattern ^[A-Z0-9]*$.
+2019-08-27 17:59:27 INFO  BranchMainPage:311 - # 'Save' button is disabled
+2019-08-27 17:59:33 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:59:33 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:59:33 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:59:33 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:59:34 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:59:34 INFO  BranchMainPage:296 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:59:34 INFO  BranchMainPage:301 - # Validation message for 'code': This field should follow pattern ^[A-Z0-9]*$.
+2019-08-27 17:59:34 INFO  BranchMainPage:311 - # 'Save' button is disabled
+2019-08-27 17:59:40 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:59:40 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:59:41 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:59:41 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:59:41 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 17:59:42 INFO  BranchMainPage:296 - # User is on 'Create or edit a Branch' form
+2019-08-27 17:59:42 INFO  BranchMainPage:301 - # Validation message for 'code': This field cannot be longer than 10 characters.
+2019-08-27 17:59:42 INFO  BranchMainPage:311 - # 'Save' button is disabled
+2019-08-27 17:59:47 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:59:48 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:59:48 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:59:48 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:59:48 INFO  BranchMainPage:204 - # Clicked on id link: 1
+2019-08-27 17:59:48 INFO  BranchesMainDetailPage:30 - # Branch Details page header: Branch 1
+2019-08-27 17:59:54 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 17:59:54 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 17:59:54 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 17:59:54 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 17:59:54 INFO  BranchMainPage:219 - # Clicked on 'View' button corresponding to id: 1
+2019-08-27 17:59:54 INFO  BranchesMainDetailPage:30 - # Branch Details page header: Branch 1
+2019-08-27 18:00:00 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:00:00 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:00:01 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:00:01 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 18:00:01 INFO  BranchMainPage:219 - # Clicked on 'Edit' button corresponding to id: 1
+2019-08-27 18:00:07 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:00:07 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:00:07 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:00:07 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 18:00:07 INFO  BranchMainPage:219 - # Clicked on 'Edit' button corresponding to id: 1
+2019-08-27 18:00:07 INFO  BranchMainPage:120 - # User is on 'Create or edit a Branch' form
+2019-08-27 18:00:08 INFO  BranchMainPage:122 - # Entered branch name: Branch CS Updated
+2019-08-27 18:00:08 INFO  BranchMainPage:124 - # Entered branch code: CS1
+2019-08-27 18:00:08 INFO  BranchMainPage:135 - # Clicked on 'Cancel' button
+2019-08-27 18:00:08 INFO  BranchMainPage:254 - # Updated branch details
+2019-08-27 18:00:08 INFO  BranchMainPage:170 - # Branch info corresponding to branch id (1): {ID=1, Code=CS, Name=Computer Science}
+2019-08-27 18:00:14 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:00:14 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:00:14 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:00:14 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 18:00:15 INFO  BranchMainPage:219 - # Clicked on 'Edit' button corresponding to id: 1
+2019-08-27 18:00:15 INFO  BranchMainPage:120 - # User is on 'Create or edit a Branch' form
+2019-08-27 18:00:15 INFO  BranchMainPage:122 - # Entered branch name: Branch CS Updated
+2019-08-27 18:00:15 INFO  BranchMainPage:124 - # Entered branch code: CS1
+2019-08-27 18:00:15 INFO  BranchMainPage:135 - # Clicked on 'Save' button
+2019-08-27 18:00:16 INFO  BranchMainPage:254 - # Updated branch details
+2019-08-27 18:00:16 INFO  BranchMainPage:170 - # Branch info corresponding to branch id (1): {ID=1, Code=CS1, Name=Branch CS Updated}
+2019-08-27 18:00:23 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:00:23 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:00:23 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:00:23 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 18:00:23 INFO  BranchMainPage:170 - # Branch info corresponding to branch id (1): {ID=1, Code=CS1, Name=Branch CS Updated}
+2019-08-27 18:00:23 INFO  BranchMainPage:219 - # Clicked on 'Delete' button corresponding to id: 1
+2019-08-27 18:00:23 INFO  BranchMainPage:265 - # Delete confirmation modal: Are you sure you want to delete Branch 1?
+2019-08-27 18:00:24 INFO  BranchMainPage:279 - # Clicked on 'Cancel' button on Delete confirmation modal
+2019-08-27 18:00:24 INFO  BranchMainPage:170 - # Branch info corresponding to branch id (1): {ID=1, Code=CS1, Name=Branch CS Updated}
+2019-08-27 18:00:30 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:00:30 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:00:30 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:00:30 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 18:00:30 INFO  BranchMainPage:219 - # Clicked on 'Delete' button corresponding to id: 1
+2019-08-27 18:00:30 INFO  BranchMainPage:265 - # Delete confirmation modal: Are you sure you want to delete Branch 1?
+2019-08-27 18:00:31 INFO  BranchMainPage:279 - # Clicked on 'Delete' button on Delete confirmation modal
+2019-08-27 18:00:41 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:00:41 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:00:47 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:00:47 INFO  LoginPage:96 - # Login into application(!nv@lid, INVALID)
+2019-08-27 18:00:53 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:00:53 INFO  LoginPage:96 - # Login into application(admin, INVALID)
+2019-08-27 18:00:59 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:01:00 INFO  LoginPage:96 - # Login into application(INVALID, admin)
+2019-08-27 18:01:06 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:01:06 INFO  LoginPage:96 - # Login into application(, )
+2019-08-27 18:01:12 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:01:12 INFO  LoginPage:96 - # Login into application(admin, )
+2019-08-27 18:01:18 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:01:19 INFO  LoginPage:96 - # Login into application(, admin)
+2019-08-27 18:01:24 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:01:25 INFO  LoginPage:83 - # Clicked on link: Did you forget your password?
+2019-08-27 18:01:25 INFO  ResetPasswordPage:42 - # Reset Password page header: Reset your password
+2019-08-27 18:01:30 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:01:30 INFO  LoginPage:83 - # Clicked on link: Register a new account
+2019-08-27 18:01:30 INFO  RegistrationPage:49 - # Registration page header: Registration
+2019-08-27 18:01:37 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:01:37 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:01:37 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 18:01:37 INFO  WelcomePage:75 - # Clicked on 'Log out' Menu Option
+2019-08-27 18:01:37 INFO  WelcomePage:37 - # Welcome page header: Welcome to Gurukula!
+2019-08-27 18:01:43 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:01:43 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:01:44 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:01:44 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 18:01:44 INFO  WelcomePage:62 - # Clicked on 'Home' menu
+2019-08-27 18:01:44 INFO  WelcomePage:37 - # Welcome page header: Welcome to Gurukula!
+2019-08-27 18:01:49 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:01:50 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:01:50 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:01:50 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 18:01:50 INFO  WelcomePage:83 - # Clicked on 'Gurukula Logo'
+2019-08-27 18:01:50 INFO  WelcomePage:37 - # Welcome page header: Welcome to Gurukula!
+2019-08-27 18:01:56 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:01:56 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:01:56 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:01:56 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 18:01:56 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 18:01:57 INFO  BranchMainPage:120 - # User is on 'Create or edit a Branch' form
+2019-08-27 18:01:57 INFO  BranchMainPage:122 - # Entered branch name: Commerce
+2019-08-27 18:01:57 INFO  BranchMainPage:124 - # Entered branch code: ME
+2019-08-27 18:01:57 INFO  BranchMainPage:135 - # Clicked on 'Save' button
+2019-08-27 18:01:58 INFO  BranchMainPage:77 - # Newly Created Branch's Id: 2
+2019-08-27 18:01:58 INFO  BranchMainPage:170 - # Branch info corresponding to branch id (2): {ID=2, Code=ME, Name=Commerce}
+2019-08-27 18:01:58 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:01:58 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 18:01:59 INFO  StaffMainPage:336 - # Clicked on 'Create' button
+2019-08-27 18:01:59 INFO  StaffMainPage:307 - # User is on 'Create or edit a Staff' form
+2019-08-27 18:01:59 INFO  StaffMainPage:309 - # Entered staff name: Kannan
+2019-08-27 18:01:59 INFO  StaffMainPage:311 - # Select branch id: 2
+2019-08-27 18:02:00 INFO  StaffMainPage:336 - # Clicked on 'Save' button
+2019-08-27 18:02:00 INFO  StaffMainPage:93 - # Newly Created Staff's Id: 1
+2019-08-27 18:02:00 INFO  StaffMainPage:251 - # Staff info corresponding to staff id (1): {Branch=Commerce, ID=1, Name=Kannan}
+2019-08-27 18:02:00 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:02:00 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 18:02:01 INFO  BranchMainPage:219 - # Clicked on 'Edit' button corresponding to id: 2
+2019-08-27 18:02:01 INFO  BranchMainPage:120 - # User is on 'Create or edit a Branch' form
+2019-08-27 18:02:01 INFO  BranchMainPage:122 - # Entered branch name: Civil
+2019-08-27 18:02:01 INFO  BranchMainPage:124 - # Entered branch code: ME
+2019-08-27 18:02:02 INFO  BranchMainPage:135 - # Clicked on 'Save' button
+2019-08-27 18:02:02 INFO  BranchMainPage:254 - # Updated branch details
+2019-08-27 18:02:02 INFO  BranchMainPage:170 - # Branch info corresponding to branch id (2): {ID=2, Code=ME, Name=Civil}
+2019-08-27 18:02:03 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:02:03 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 18:02:03 INFO  StaffMainPage:251 - # Staff info corresponding to staff id (1): {Branch=Civil, ID=1, Name=Kannan}
+2019-08-27 18:02:09 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:02:09 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:02:09 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:02:10 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 18:02:10 INFO  BranchMainPage:219 - # Clicked on 'Delete' button corresponding to id: 2
+2019-08-27 18:02:10 INFO  BranchMainPage:265 - # Delete confirmation modal: Are you sure you want to delete Branch 2?
+2019-08-27 18:02:26 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 18:02:26 INFO  RegistrationPage:49 - # Registration page header: Registration
+2019-08-27 18:02:32 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 18:02:32 INFO  RegistrationPage:91 - # Entered text in 'login': kannan
+2019-08-27 18:02:32 INFO  RegistrationPage:91 - # Entered text in 'email': unniqannan@gmail.com
+2019-08-27 18:02:32 INFO  RegistrationPage:91 - # Entered text in 'password': Test#123
+2019-08-27 18:02:32 INFO  RegistrationPage:91 - # Entered text in 'confirmPassword': Test#123
+2019-08-27 18:02:32 INFO  RegistrationPage:78 - # Clicked on 'Save' button
+2019-08-27 18:02:32 INFO  RegistrationPage:102 - # Alert message: Registration failed! Please try again later.
+2019-08-27 18:02:38 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 18:02:38 INFO  RegistrationPage:91 - # Entered text in 'login': a
+2019-08-27 18:02:49 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 18:02:49 INFO  RegistrationPage:91 - # Entered text in 'login': thisistotestthemaxlimitofthetextfieldonregistration
+2019-08-27 18:02:49 INFO  RegistrationPage:116 - # Validation message for 'login': Your login cannot be longer than 50 characters.
+2019-08-27 18:02:49 INFO  RegistrationPage:126 - # 'Register' button is disabled
+2019-08-27 18:02:55 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 18:02:55 INFO  RegistrationPage:91 - # Entered text in 'login': kannan
+2019-08-27 18:03:07 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 18:03:07 INFO  RegistrationPage:91 - # Entered text in 'email': a@b
+2019-08-27 18:03:07 INFO  RegistrationPage:116 - # Validation message for 'email': Your e-mail is required to be at least 5 characters.
+2019-08-27 18:03:07 INFO  RegistrationPage:126 - # 'Register' button is disabled
+2019-08-27 18:03:13 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 18:03:13 INFO  RegistrationPage:91 - # Entered text in 'email': abcdef
+2019-08-27 18:03:13 INFO  RegistrationPage:116 - # Validation message for 'email': Your e-mail is invalid.
+2019-08-27 18:03:13 INFO  RegistrationPage:126 - # 'Register' button is disabled
+2019-08-27 18:03:19 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 18:03:19 INFO  RegistrationPage:91 - # Entered text in 'email': ThisEmailIsToValidateTheMaxLimitEmail@TextField.com
+2019-08-27 18:03:30 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 18:03:30 INFO  RegistrationPage:91 - # Entered text in 'password': A
+2019-08-27 18:03:30 INFO  RegistrationPage:116 - # Validation message for 'password': Your password is required to be at least 5 characters.
+2019-08-27 18:03:30 INFO  RegistrationPage:126 - # 'Register' button is disabled
+2019-08-27 18:03:36 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 18:03:36 INFO  RegistrationPage:91 - # Entered text in 'password': this text is to test the max limit of the password1
+2019-08-27 18:03:36 INFO  RegistrationPage:116 - # Validation message for 'password': Your password cannot be longer than 50 characters.
+2019-08-27 18:03:36 INFO  RegistrationPage:126 - # 'Register' button is disabled
+2019-08-27 18:03:41 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 18:03:42 INFO  RegistrationPage:91 - # Entered text in 'password': 1admin
+2019-08-27 18:03:52 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 18:03:53 INFO  RegistrationPage:91 - # Entered text in 'confirmPassword': A
+2019-08-27 18:03:53 INFO  RegistrationPage:116 - # Validation message for 'confirmPassword': Your confirmation password is required to be at least 5 characters.
+2019-08-27 18:03:53 INFO  RegistrationPage:126 - # 'Register' button is disabled
+2019-08-27 18:03:58 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 18:03:58 INFO  RegistrationPage:91 - # Entered text in 'confirmPassword': this text is to test the max limit of the password1
+2019-08-27 18:03:58 INFO  RegistrationPage:116 - # Validation message for 'confirmPassword': Your confirmation password cannot be longer than 50 characters.
+2019-08-27 18:03:58 INFO  RegistrationPage:126 - # 'Register' button is disabled
+2019-08-27 18:04:04 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 18:04:04 INFO  RegistrationPage:91 - # Entered text in 'confirmPassword': 1admin
+2019-08-27 18:04:15 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 18:04:15 INFO  RegistrationPage:91 - # Entered text in 'login':  
+2019-08-27 18:04:15 INFO  RegistrationPage:136 - # Cleared 'login' to verify required field validation
+2019-08-27 18:04:15 INFO  RegistrationPage:116 - # Validation message for 'login': Your login is required.
+2019-08-27 18:04:15 INFO  RegistrationPage:126 - # 'Register' button is disabled
+2019-08-27 18:04:21 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 18:04:21 INFO  RegistrationPage:91 - # Entered text in 'email':  
+2019-08-27 18:04:21 INFO  RegistrationPage:136 - # Cleared 'email' to verify required field validation
+2019-08-27 18:04:21 INFO  RegistrationPage:116 - # Validation message for 'email': Your e-mail is required.
+2019-08-27 18:04:21 INFO  RegistrationPage:126 - # 'Register' button is disabled
+2019-08-27 18:04:27 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 18:04:27 INFO  RegistrationPage:91 - # Entered text in 'password': req
+2019-08-27 18:04:27 INFO  RegistrationPage:136 - # Cleared 'password' to verify required field validation
+2019-08-27 18:04:27 INFO  RegistrationPage:116 - # Validation message for 'password': Your password is required.
+2019-08-27 18:04:27 INFO  RegistrationPage:126 - # 'Register' button is disabled
+2019-08-27 18:04:33 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 18:04:33 INFO  RegistrationPage:91 - # Entered text in 'confirmPassword': req
+2019-08-27 18:04:33 INFO  RegistrationPage:136 - # Cleared 'confirmPassword' to verify required field validation
+2019-08-27 18:04:33 INFO  RegistrationPage:116 - # Validation message for 'confirmPassword': Your confirmation password is required.
+2019-08-27 18:04:33 INFO  RegistrationPage:126 - # 'Register' button is disabled
+2019-08-27 18:04:38 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 18:04:39 INFO  RegistrationPage:91 - # Entered text in 'login': kannan
+2019-08-27 18:04:39 INFO  RegistrationPage:91 - # Entered text in 'email': unniqannan@gmail.com
+2019-08-27 18:04:39 INFO  RegistrationPage:91 - # Entered text in 'password': Test#123
+2019-08-27 18:04:39 INFO  RegistrationPage:91 - # Entered text in 'confirmPassword': Abc#123
+2019-08-27 18:04:39 INFO  RegistrationPage:78 - # Clicked on 'Save' button
+2019-08-27 18:04:39 INFO  RegistrationPage:102 - # Alert message: The password and its confirmation do not match!
+2019-08-27 18:04:45 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:04:45 INFO  ResetPasswordPage:53 - # Clicked on 'Did you forget your password?'
+2019-08-27 18:04:45 INFO  ResetPasswordPage:42 - # Reset Password page header: Reset your password
+2019-08-27 18:04:53 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:04:53 INFO  ResetPasswordPage:53 - # Clicked on 'Did you forget your password?'
+2019-08-27 18:04:53 INFO  ResetPasswordPage:82 - # Clicked on 'Reset password' button
+2019-08-27 18:05:05 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:05:05 INFO  ResetPasswordPage:53 - # Clicked on 'Did you forget your password?'
+2019-08-27 18:05:06 INFO  ResetPasswordPage:82 - # Clicked on 'Reset password' button
+2019-08-27 18:05:06 INFO  ResetPasswordPage:99 - # Alert message: E-Mail address isn't registered! Please check and try again
+2019-08-27 18:05:12 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:05:12 INFO  ResetPasswordPage:53 - # Clicked on 'Did you forget your password?'
+2019-08-27 18:05:12 INFO  ResetPasswordPage:63 - # Entered text in 'E-mail': abcde
+2019-08-27 18:05:12 INFO  ResetPasswordPage:110 - # Validation message for 'E-mail': Your e-mail is invalid.
+2019-08-27 18:05:12 INFO  ResetPasswordPage:121 - # 'Reset password' button is disabled
+2019-08-27 18:05:18 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:05:18 INFO  ResetPasswordPage:53 - # Clicked on 'Did you forget your password?'
+2019-08-27 18:05:18 INFO  ResetPasswordPage:63 - # Entered text in 'E-mail': a@b
+2019-08-27 18:05:18 INFO  ResetPasswordPage:110 - # Validation message for 'E-mail': Your e-mail is required to be at least 5 characters.
+2019-08-27 18:05:18 INFO  ResetPasswordPage:121 - # 'Reset password' button is disabled
+2019-08-27 18:05:24 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:05:24 INFO  ResetPasswordPage:53 - # Clicked on 'Did you forget your password?'
+2019-08-27 18:05:25 INFO  ResetPasswordPage:63 - # Entered text in 'E-mail': ThisEmailIsToValidateTheMaximumLimitOfEmail@TextField.com
+2019-08-27 18:05:36 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:05:36 INFO  ResetPasswordPage:53 - # Clicked on 'Did you forget your password?'
+2019-08-27 18:05:36 INFO  ResetPasswordPage:63 - # Entered text in 'E-mail': kannan
+2019-08-27 18:05:36 INFO  ResetPasswordPage:71 - # Cleared 'E-mail' to verify required field validation
+2019-08-27 18:05:36 INFO  ResetPasswordPage:110 - # Validation message for 'E-mail': Your e-mail is required.
+2019-08-27 18:05:36 INFO  ResetPasswordPage:121 - # 'Reset password' button is disabled
+2019-08-27 18:05:42 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:05:43 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:05:43 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:05:43 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 18:05:43 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 18:05:44 INFO  BranchMainPage:120 - # User is on 'Create or edit a Branch' form
+2019-08-27 18:05:44 INFO  BranchMainPage:122 - # Entered branch name: Test Branch One
+2019-08-27 18:05:44 INFO  BranchMainPage:124 - # Entered branch code: T1
+2019-08-27 18:05:44 INFO  BranchMainPage:135 - # Clicked on 'Save' button
+2019-08-27 18:05:45 INFO  BranchMainPage:77 - # Newly Created Branch's Id: 3
+2019-08-27 18:05:45 INFO  BranchMainPage:170 - # Branch info corresponding to branch id (3): {ID=3, Code=T1, Name=Test Branch One}
+2019-08-27 18:05:45 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 18:05:46 INFO  BranchMainPage:120 - # User is on 'Create or edit a Branch' form
+2019-08-27 18:05:46 INFO  BranchMainPage:122 - # Entered branch name: Test Branch Two
+2019-08-27 18:05:46 INFO  BranchMainPage:124 - # Entered branch code: T2
+2019-08-27 18:05:46 INFO  BranchMainPage:135 - # Clicked on 'Save' button
+2019-08-27 18:05:46 INFO  BranchMainPage:77 - # Newly Created Branch's Id: 4
+2019-08-27 18:05:46 INFO  BranchMainPage:170 - # Branch info corresponding to branch id (4): {ID=4, Code=T2, Name=Test Branch Two}
+2019-08-27 18:05:47 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 18:05:47 INFO  BranchMainPage:120 - # User is on 'Create or edit a Branch' form
+2019-08-27 18:05:47 INFO  BranchMainPage:122 - # Entered branch name: BranchThree
+2019-08-27 18:05:47 INFO  BranchMainPage:124 - # Entered branch code: T3
+2019-08-27 18:05:48 INFO  BranchMainPage:135 - # Clicked on 'Save' button
+2019-08-27 18:05:48 INFO  BranchMainPage:77 - # Newly Created Branch's Id: 5
+2019-08-27 18:05:48 INFO  BranchMainPage:170 - # Branch info corresponding to branch id (5): {ID=5, Code=T3, Name=BranchThree}
+2019-08-27 18:05:54 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:05:54 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:05:55 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:05:55 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 18:05:55 INFO  BranchMainPage:135 - # Clicked on 'Search a Branch' button
+2019-08-27 18:05:55 INFO  BranchMainPage:322 - # Performed branch search for 'BranchThree'
+2019-08-27 18:05:55 INFO  BranchMainPage:366 - # Row 1: [5, BranchThree, T3]
+2019-08-27 18:06:00 INFO  BranchMainPage:370 - # List of rows: [[5, BranchThree, T3]]
+2019-08-27 18:06:06 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:06:07 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:06:07 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:06:07 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 18:06:07 INFO  BranchMainPage:135 - # Clicked on 'Search a Branch' button
+2019-08-27 18:06:07 INFO  BranchMainPage:322 - # Performed branch search for 'Branch'
+2019-08-27 18:06:07 INFO  BranchMainPage:366 - # Row 1: [6, Associated Branch, AS]
+2019-08-27 18:06:07 INFO  BranchMainPage:366 - # Row 2: [4, Test Branch Two, T2]
+2019-08-27 18:06:08 INFO  BranchMainPage:366 - # Row 3: [3, Test Branch One, T1]
+2019-08-27 18:06:13 INFO  BranchMainPage:370 - # List of rows: [[6, Associated Branch, AS], [4, Test Branch Two, T2], [3, Test Branch One, T1]]
+2019-08-27 18:06:19 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:06:19 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:06:19 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:06:19 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 18:06:20 INFO  BranchMainPage:135 - # Clicked on 'Search a Branch' button
+2019-08-27 18:06:20 INFO  BranchMainPage:322 - # Performed branch search for 'BRANCHTHREE'
+2019-08-27 18:06:20 INFO  BranchMainPage:366 - # Row 1: [5, BranchThree, T3]
+2019-08-27 18:06:25 INFO  BranchMainPage:370 - # List of rows: [[5, BranchThree, T3]]
+2019-08-27 18:06:31 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:06:31 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:06:32 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:06:32 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 18:06:32 INFO  BranchMainPage:135 - # Clicked on 'Search a Branch' button
+2019-08-27 18:06:32 INFO  BranchMainPage:322 - # Performed branch search for 'T1'
+2019-08-27 18:06:32 INFO  BranchMainPage:366 - # Row 1: [3, Test Branch One, T1]
+2019-08-27 18:06:37 INFO  BranchMainPage:370 - # List of rows: [[3, Test Branch One, T1]]
+2019-08-27 18:06:43 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:06:43 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:06:43 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:06:43 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 18:06:44 INFO  BranchMainPage:135 - # Clicked on 'Search a Branch' button
+2019-08-27 18:06:44 INFO  BranchMainPage:322 - # Performed branch search for 'One Two'
+2019-08-27 18:06:44 INFO  BranchMainPage:366 - # Row 1: [4, Test Branch Two, T2]
+2019-08-27 18:06:44 INFO  BranchMainPage:366 - # Row 2: [3, Test Branch One, T1]
+2019-08-27 18:06:49 INFO  BranchMainPage:370 - # List of rows: [[4, Test Branch Two, T2], [3, Test Branch One, T1]]
+2019-08-27 18:06:49 INFO  BranchMainPage:366 - # Row 1: [4, Test Branch Two, T2]
+2019-08-27 18:06:50 INFO  BranchMainPage:366 - # Row 2: [3, Test Branch One, T1]
+2019-08-27 18:06:55 INFO  BranchMainPage:370 - # List of rows: [[4, Test Branch Two, T2], [3, Test Branch One, T1]]
+2019-08-27 18:07:00 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:07:00 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:07:01 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:07:01 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 18:07:01 INFO  BranchMainPage:135 - # Clicked on 'Search a Branch' button
+2019-08-27 18:07:01 INFO  BranchMainPage:322 - # Performed branch search for '5'
+2019-08-27 18:07:01 INFO  BranchMainPage:366 - # Row 1: [5, BranchThree, T3]
+2019-08-27 18:07:06 INFO  BranchMainPage:370 - # List of rows: [[5, BranchThree, T3]]
+2019-08-27 18:07:12 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:07:13 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:07:13 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:07:13 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 18:07:13 INFO  BranchMainPage:135 - # Clicked on 'Search a Branch' button
+2019-08-27 18:07:13 INFO  BranchMainPage:322 - # Performed branch search for '!One'
+2019-08-27 18:07:13 INFO  BranchMainPage:366 - # Row 1: [17, oneBRANCHSELENIUM, 77]
+2019-08-27 18:07:14 INFO  BranchMainPage:366 - # Row 2: [24, oneBRANCHSELENIUM, 77]
+2019-08-27 18:07:14 INFO  BranchMainPage:366 - # Row 3: [29, threeBRANCHSELENIUM, 9999]
+2019-08-27 18:07:14 INFO  BranchMainPage:366 - # Row 4: [31, twoBRANCHSELENIUM, 888]
+2019-08-27 18:07:14 INFO  BranchMainPage:366 - # Row 5: [36, oneBRANCHSELENIUM, 77]
+2019-08-27 18:07:14 INFO  BranchMainPage:366 - # Row 6: [43, oneBRANCHSELENIUM, 77]
+2019-08-27 18:07:14 INFO  BranchMainPage:366 - # Row 7: [48, twoBRANCHSELENIUM, 888]
+2019-08-27 18:07:14 INFO  BranchMainPage:366 - # Row 8: [12, BranchTwoForStaff, 122]
+2019-08-27 18:07:14 INFO  BranchMainPage:366 - # Row 9: [5, BranchThree, T3]
+2019-08-27 18:07:14 INFO  BranchMainPage:366 - # Row 10: [16, threeBRANCHSELENIUM, 9999]
+2019-08-27 18:07:15 INFO  BranchMainPage:366 - # Row 11: [23, threeBRANCHSELENIUM, 9999]
+2019-08-27 18:07:15 INFO  BranchMainPage:366 - # Row 12: [35, threeBRANCHSELENIUM, 9999]
+2019-08-27 18:07:15 INFO  BranchMainPage:366 - # Row 13: [28, twoBRANCHSELENIUM, 888]
+2019-08-27 18:07:15 INFO  BranchMainPage:366 - # Row 14: [30, oneBRANCHSELENIUM, 77]
+2019-08-27 18:07:15 INFO  BranchMainPage:366 - # Row 15: [42, oneBRANCHSELENIUM, 77]
+2019-08-27 18:07:15 INFO  BranchMainPage:366 - # Row 16: [47, oneBRANCHSELENIUM, 77]
+2019-08-27 18:07:15 INFO  BranchMainPage:366 - # Row 17: [11, BranchOneForStaff, 111]
+2019-08-27 18:07:15 INFO  BranchMainPage:366 - # Row 18: [9, Computer Science, CS]
+2019-08-27 18:07:16 INFO  BranchMainPage:366 - # Row 19: [4, Test Branch Two, T2]
+2019-08-27 18:07:16 INFO  BranchMainPage:366 - # Row 20: [14, threeBRANCHSELENIUM, 9999]
+2019-08-27 18:07:16 INFO  BranchMainPage:366 - # Row 21: [26, threeBRANCHSELENIUM, 9999]
+2019-08-27 18:07:16 INFO  BranchMainPage:366 - # Row 22: [38, threeBRANCHSELENIUM, 9999]
+2019-08-27 18:07:16 INFO  BranchMainPage:366 - # Row 23: [19, twoBRANCHSELENIUM, 888]
+2019-08-27 18:07:16 INFO  BranchMainPage:366 - # Row 24: [40, twoBRANCHSELENIUM, 888]
+2019-08-27 18:07:16 INFO  BranchMainPage:366 - # Row 25: [45, twoBRANCHSELENIUM, 888]
+2019-08-27 18:07:16 INFO  BranchMainPage:366 - # Row 26: [21, oneBRANCHSELENIUM, 77]
+2019-08-27 18:07:17 INFO  BranchMainPage:366 - # Row 27: [33, oneBRANCHSELENIUM, 77]
+2019-08-27 18:07:17 INFO  BranchMainPage:366 - # Row 28: [7, Computer Science, CS]
+2019-08-27 18:07:17 INFO  BranchMainPage:366 - # Row 29: [2, Civil, ME]
+2019-08-27 18:07:17 INFO  BranchMainPage:366 - # Row 30: [20, threeBRANCHSELENIUM, 9999]
+2019-08-27 18:07:17 INFO  BranchMainPage:366 - # Row 31: [32, threeBRANCHSELENIUM, 9999]
+2019-08-27 18:07:17 INFO  BranchMainPage:366 - # Row 32: [49, threeBRANCHSELENIUM, 9999]
+2019-08-27 18:07:17 INFO  BranchMainPage:366 - # Row 33: [25, twoBRANCHSELENIUM, 888]
+2019-08-27 18:07:18 INFO  BranchMainPage:366 - # Row 34: [37, twoBRANCHSELENIUM, 888]
+2019-08-27 18:07:18 INFO  BranchMainPage:366 - # Row 35: [13, oneBRANCHSELENIUM, 77]
+2019-08-27 18:07:18 INFO  BranchMainPage:366 - # Row 36: [18, oneBRANCHSELENIUM, 77]
+2019-08-27 18:07:18 INFO  BranchMainPage:366 - # Row 37: [44, oneBRANCHSELENIUM, 77]
+2019-08-27 18:07:18 INFO  BranchMainPage:366 - # Row 38: [6, Associated Branch, AS]
+2019-08-27 18:07:19 INFO  BranchMainPage:366 - # Row 39: [41, threeBRANCHSELENIUM, 9999]
+2019-08-27 18:07:19 INFO  BranchMainPage:366 - # Row 40: [46, threeBRANCHSELENIUM, 9999]
+2019-08-27 18:07:19 INFO  BranchMainPage:366 - # Row 41: [22, twoBRANCHSELENIUM, 888]
+2019-08-27 18:07:19 INFO  BranchMainPage:366 - # Row 42: [34, twoBRANCHSELENIUM, 888]
+2019-08-27 18:07:20 INFO  BranchMainPage:366 - # Row 43: [15, oneBRANCHSELENIUM, 77]
+2019-08-27 18:07:20 INFO  BranchMainPage:366 - # Row 44: [27, oneBRANCHSELENIUM, 77]
+2019-08-27 18:07:20 INFO  BranchMainPage:366 - # Row 45: [39, oneBRANCHSELENIUM, 77]
+2019-08-27 18:07:20 INFO  BranchMainPage:366 - # Row 46: [10, threeBRANCHSELENIUM, 9999]
+2019-08-27 18:07:21 INFO  BranchMainPage:366 - # Row 47: [8, Computer Science, CS]
+2019-08-27 18:07:26 INFO  BranchMainPage:370 - # List of rows: [[17, oneBRANCHSELENIUM, 77], [24, oneBRANCHSELENIUM, 77], [29, threeBRANCHSELENIUM, 9999], [31, twoBRANCHSELENIUM, 888], [36, oneBRANCHSELENIUM, 77], [43, oneBRANCHSELENIUM, 77], [48, twoBRANCHSELENIUM, 888], [12, BranchTwoForStaff, 122], [5, BranchThree, T3], [16, threeBRANCHSELENIUM, 9999], [23, threeBRANCHSELENIUM, 9999], [35, threeBRANCHSELENIUM, 9999], [28, twoBRANCHSELENIUM, 888], [30, oneBRANCHSELENIUM, 77], [42, oneBRANCHSELENIUM, 77], [47, oneBRANCHSELENIUM, 77], [11, BranchOneForStaff, 111], [9, Computer Science, CS], [4, Test Branch Two, T2], [14, threeBRANCHSELENIUM, 9999], [26, threeBRANCHSELENIUM, 9999], [38, threeBRANCHSELENIUM, 9999], [19, twoBRANCHSELENIUM, 888], [40, twoBRANCHSELENIUM, 888], [45, twoBRANCHSELENIUM, 888], [21, oneBRANCHSELENIUM, 77], [33, oneBRANCHSELENIUM, 77], [7, Computer Science, CS], [2, Civil, ME], [20, threeBRANCHSELENIUM, 9999], [32, threeBRANCHSELENIUM, 9999], [49, threeBRANCHSELENIUM, 9999], [25, twoBRANCHSELENIUM, 888], [37, twoBRANCHSELENIUM, 888], [13, oneBRANCHSELENIUM, 77], [18, oneBRANCHSELENIUM, 77], [44, oneBRANCHSELENIUM, 77], [6, Associated Branch, AS], [41, threeBRANCHSELENIUM, 9999], [46, threeBRANCHSELENIUM, 9999], [22, twoBRANCHSELENIUM, 888], [34, twoBRANCHSELENIUM, 888], [15, oneBRANCHSELENIUM, 77], [27, oneBRANCHSELENIUM, 77], [39, oneBRANCHSELENIUM, 77], [10, threeBRANCHSELENIUM, 9999], [8, Computer Science, CS]]
+2019-08-27 18:07:32 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:07:32 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:07:32 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:07:32 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 18:07:32 INFO  BranchMainPage:135 - # Clicked on 'Search a Branch' button
+2019-08-27 18:07:32 INFO  BranchMainPage:322 - # Performed branch search for 'doesNotExist'
+2019-08-27 18:07:37 INFO  BranchMainPage:370 - # List of rows: []
+2019-08-27 18:07:43 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:07:43 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:07:44 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:07:44 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 18:07:44 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:07:44 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 18:07:44 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 18:07:45 INFO  BranchMainPage:120 - # User is on 'Create or edit a Branch' form
+2019-08-27 18:07:45 INFO  BranchMainPage:122 - # Entered branch name: Associated Branch
+2019-08-27 18:07:45 INFO  BranchMainPage:124 - # Entered branch code: AS
+2019-08-27 18:07:45 INFO  BranchMainPage:135 - # Clicked on 'Save' button
+2019-08-27 18:07:46 INFO  BranchMainPage:77 - # Newly Created Branch's Id: 6
+2019-08-27 18:07:46 INFO  BranchMainPage:170 - # Branch info corresponding to branch id (6): {ID=6, Code=AS, Name=Associated Branch}
+2019-08-27 18:07:46 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:07:46 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 18:07:46 INFO  StaffMainPage:336 - # Clicked on 'Create' button
+2019-08-27 18:07:47 INFO  StaffMainPage:288 - # User is on 'Create or edit a Staff' form
+2019-08-27 18:07:47 INFO  StaffMainPage:290 - # Entered staff name: Test Staff One
+2019-08-27 18:07:47 INFO  StaffMainPage:292 - # Select branch name: Associated Branch
+2019-08-27 18:07:47 INFO  StaffMainPage:336 - # Clicked on 'Save' button
+2019-08-27 18:07:48 INFO  StaffMainPage:76 - # Newly Created Staff's Id: 2
+2019-08-27 18:07:48 INFO  StaffMainPage:251 - # Staff info corresponding to staff id (2): {Branch=Associated Branch, ID=2, Name=Test Staff One}
+2019-08-27 18:07:49 INFO  StaffMainPage:336 - # Clicked on 'Create' button
+2019-08-27 18:07:49 INFO  StaffMainPage:288 - # User is on 'Create or edit a Staff' form
+2019-08-27 18:07:49 INFO  StaffMainPage:290 - # Entered staff name: Test Staff Two
+2019-08-27 18:07:49 INFO  StaffMainPage:292 - # Select branch name: Associated Branch
+2019-08-27 18:07:49 INFO  StaffMainPage:336 - # Clicked on 'Save' button
+2019-08-27 18:07:50 INFO  StaffMainPage:76 - # Newly Created Staff's Id: 3
+2019-08-27 18:07:50 INFO  StaffMainPage:251 - # Staff info corresponding to staff id (3): {Branch=Associated Branch, ID=3, Name=Test Staff Two}
+2019-08-27 18:07:51 INFO  StaffMainPage:336 - # Clicked on 'Create' button
+2019-08-27 18:07:51 INFO  StaffMainPage:288 - # User is on 'Create or edit a Staff' form
+2019-08-27 18:07:51 INFO  StaffMainPage:290 - # Entered staff name: StaffThree
+2019-08-27 18:07:51 INFO  StaffMainPage:292 - # Select branch name: Associated Branch
+2019-08-27 18:07:51 INFO  StaffMainPage:336 - # Clicked on 'Save' button
+2019-08-27 18:07:52 INFO  StaffMainPage:76 - # Newly Created Staff's Id: 4
+2019-08-27 18:07:52 INFO  StaffMainPage:251 - # Staff info corresponding to staff id (4): {Branch=Associated Branch, ID=4, Name=StaffThree}
+2019-08-27 18:07:58 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:07:58 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:07:59 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:07:59 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 18:07:59 INFO  StaffMainPage:336 - # Clicked on 'Search a Staff' button
+2019-08-27 18:07:59 INFO  StaffMainPage:355 - # Performed staff search for 'StaffThree'
+2019-08-27 18:07:59 INFO  StaffMainPage:376 - # Row 1: [4, StaffThree, ]
+2019-08-27 18:08:04 INFO  StaffMainPage:380 - # List of rows: [[4, StaffThree, ]]
+2019-08-27 18:08:10 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:08:10 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:08:10 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:08:10 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 18:08:11 INFO  StaffMainPage:336 - # Clicked on 'Search a Staff' button
+2019-08-27 18:08:11 INFO  StaffMainPage:355 - # Performed staff search for 'Staff'
+2019-08-27 18:08:11 INFO  StaffMainPage:376 - # Row 1: [3, Test Staff Two, ]
+2019-08-27 18:08:11 INFO  StaffMainPage:376 - # Row 2: [2, Test Staff One, ]
+2019-08-27 18:08:16 INFO  StaffMainPage:380 - # List of rows: [[3, Test Staff Two, ], [2, Test Staff One, ]]
+2019-08-27 18:08:22 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:08:22 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:08:23 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:08:23 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 18:08:23 INFO  StaffMainPage:336 - # Clicked on 'Search a Staff' button
+2019-08-27 18:08:23 INFO  StaffMainPage:355 - # Performed staff search for 'STAFFTHREE'
+2019-08-27 18:08:23 INFO  StaffMainPage:376 - # Row 1: [4, StaffThree, ]
+2019-08-27 18:08:28 INFO  StaffMainPage:380 - # List of rows: [[4, StaffThree, ]]
+2019-08-27 18:08:34 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:08:34 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:08:34 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:08:34 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 18:08:35 INFO  StaffMainPage:336 - # Clicked on 'Search a Staff' button
+2019-08-27 18:08:35 INFO  StaffMainPage:355 - # Performed staff search for 'Associated Branch'
+2019-08-27 18:08:40 INFO  StaffMainPage:380 - # List of rows: []
+2019-08-27 18:08:46 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:08:46 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:08:46 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:08:46 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 18:08:46 INFO  StaffMainPage:336 - # Clicked on 'Search a Staff' button
+2019-08-27 18:08:46 INFO  StaffMainPage:355 - # Performed staff search for 'One Two'
+2019-08-27 18:08:47 INFO  StaffMainPage:376 - # Row 1: [3, Test Staff Two, ]
+2019-08-27 18:08:47 INFO  StaffMainPage:376 - # Row 2: [2, Test Staff One, ]
+2019-08-27 18:08:52 INFO  StaffMainPage:380 - # List of rows: [[3, Test Staff Two, ], [2, Test Staff One, ]]
+2019-08-27 18:08:52 INFO  StaffMainPage:376 - # Row 1: [3, Test Staff Two, ]
+2019-08-27 18:08:52 INFO  StaffMainPage:376 - # Row 2: [2, Test Staff One, ]
+2019-08-27 18:08:57 INFO  StaffMainPage:380 - # List of rows: [[3, Test Staff Two, ], [2, Test Staff One, ]]
+2019-08-27 18:09:03 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:09:03 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:09:03 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:09:03 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 18:09:04 INFO  StaffMainPage:336 - # Clicked on 'Search a Staff' button
+2019-08-27 18:09:04 INFO  StaffMainPage:355 - # Performed staff search for '4'
+2019-08-27 18:09:04 INFO  StaffMainPage:376 - # Row 1: [22, THREESTAFFSELENIUM, ]
+2019-08-27 18:09:04 INFO  StaffMainPage:376 - # Row 2: [17, THREESTAFFSELENIUM, ]
+2019-08-27 18:09:04 INFO  StaffMainPage:376 - # Row 3: [4, StaffThree, ]
+2019-08-27 18:09:04 INFO  StaffMainPage:376 - # Row 4: [14, THREESTAFFSELENIUM, ]
+2019-08-27 18:09:04 INFO  StaffMainPage:376 - # Row 5: [25, THREESTAFFSELENIUM, ]
+2019-08-27 18:09:09 INFO  StaffMainPage:380 - # List of rows: [[22, THREESTAFFSELENIUM, ], [17, THREESTAFFSELENIUM, ], [4, StaffThree, ], [14, THREESTAFFSELENIUM, ], [25, THREESTAFFSELENIUM, ]]
+2019-08-27 18:09:15 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:09:15 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:09:16 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:09:16 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 18:09:16 INFO  StaffMainPage:336 - # Clicked on 'Search a Staff' button
+2019-08-27 18:09:16 INFO  StaffMainPage:355 - # Performed staff search for '!One'
+2019-08-27 18:09:16 INFO  StaffMainPage:376 - # Row 1: [15, oneSTAFFSELENIUM, ]
+2019-08-27 18:09:16 INFO  StaffMainPage:376 - # Row 2: [22, THREESTAFFSELENIUM, ]
+2019-08-27 18:09:16 INFO  StaffMainPage:376 - # Row 3: [27, twoSTAFFnullBranch, ]
+2019-08-27 18:09:16 INFO  StaffMainPage:376 - # Row 4: [10, twoStaffWithoutBranch, ]
+2019-08-27 18:09:17 INFO  StaffMainPage:376 - # Row 5: [8, twoStaffWithoutBranch, ]
+2019-08-27 18:09:17 INFO  StaffMainPage:376 - # Row 6: [3, Test Staff Two, ]
+2019-08-27 18:09:17 INFO  StaffMainPage:376 - # Row 7: [12, oneSTAFFSELENIUM, ]
+2019-08-27 18:09:17 INFO  StaffMainPage:376 - # Row 8: [17, THREESTAFFSELENIUM, ]
+2019-08-27 18:09:17 INFO  StaffMainPage:376 - # Row 9: [24, twoSTAFFSELENIUM, ]
+2019-08-27 18:09:17 INFO  StaffMainPage:376 - # Row 10: [16, twoSTAFFSELENIUM, ]
+2019-08-27 18:09:17 INFO  StaffMainPage:376 - # Row 11: [23, oneSTAFFSELENIUM, ]
+2019-08-27 18:09:17 INFO  StaffMainPage:376 - # Row 12: [11, threeStaffWithoutBranch, ]
+2019-08-27 18:09:17 INFO  StaffMainPage:376 - # Row 13: [9, threeStaffWithoutBranch, ]
+2019-08-27 18:09:18 INFO  StaffMainPage:376 - # Row 14: [4, StaffThree, ]
+2019-08-27 18:09:18 INFO  StaffMainPage:376 - # Row 15: [14, THREESTAFFSELENIUM, ]
+2019-08-27 18:09:18 INFO  StaffMainPage:376 - # Row 16: [19, twoSTAFFnullBranch, ]
+2019-08-27 18:09:18 INFO  StaffMainPage:376 - # Row 17: [21, twoSTAFFSELENIUM, ]
+2019-08-27 18:09:18 INFO  StaffMainPage:376 - # Row 18: [26, oneSTAFFwithoutBranch, ]
+2019-08-27 18:09:18 INFO  StaffMainPage:376 - # Row 19: [7, oneStaffWithoutBranch, ]
+2019-08-27 18:09:18 INFO  StaffMainPage:376 - # Row 20: [13, twoSTAFFSELENIUM, ]
+2019-08-27 18:09:18 INFO  StaffMainPage:376 - # Row 21: [18, oneSTAFFwithoutBranch, ]
+2019-08-27 18:09:18 INFO  StaffMainPage:376 - # Row 22: [20, oneSTAFFSELENIUM, ]
+2019-08-27 18:09:19 INFO  StaffMainPage:376 - # Row 23: [25, THREESTAFFSELENIUM, ]
+2019-08-27 18:09:19 INFO  StaffMainPage:376 - # Row 24: [6, THREESTAFFSELENIUM, ]
+2019-08-27 18:09:19 INFO  StaffMainPage:376 - # Row 25: [1, Kannan, ]
+2019-08-27 18:09:24 INFO  StaffMainPage:380 - # List of rows: [[15, oneSTAFFSELENIUM, ], [22, THREESTAFFSELENIUM, ], [27, twoSTAFFnullBranch, ], [10, twoStaffWithoutBranch, ], [8, twoStaffWithoutBranch, ], [3, Test Staff Two, ], [12, oneSTAFFSELENIUM, ], [17, THREESTAFFSELENIUM, ], [24, twoSTAFFSELENIUM, ], [16, twoSTAFFSELENIUM, ], [23, oneSTAFFSELENIUM, ], [11, threeStaffWithoutBranch, ], [9, threeStaffWithoutBranch, ], [4, StaffThree, ], [14, THREESTAFFSELENIUM, ], [19, twoSTAFFnullBranch, ], [21, twoSTAFFSELENIUM, ], [26, oneSTAFFwithoutBranch, ], [7, oneStaffWithoutBranch, ], [13, twoSTAFFSELENIUM, ], [18, oneSTAFFwithoutBranch, ], [20, oneSTAFFSELENIUM, ], [25, THREESTAFFSELENIUM, ], [6, THREESTAFFSELENIUM, ], [1, Kannan, ]]
+2019-08-27 18:09:29 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:09:30 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:09:30 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:09:30 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 18:09:30 INFO  StaffMainPage:336 - # Clicked on 'Search a Staff' button
+2019-08-27 18:09:30 INFO  StaffMainPage:355 - # Performed staff search for 'doesNotExist'
+2019-08-27 18:09:35 INFO  BranchMainPage:370 - # List of rows: []
+2019-08-27 18:09:42 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:09:42 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:09:42 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 18:09:42 INFO  WelcomePage:75 - # Clicked on 'Sessions' Menu Option
+2019-08-27 18:09:42 INFO  SessionsPage:39 - # Sessions page header: Active sessions for [admin]
+2019-08-27 18:09:48 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:09:48 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:09:48 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 18:09:48 INFO  WelcomePage:75 - # Clicked on 'Sessions' Menu Option
+2019-08-27 18:09:49 INFO  SessionsPage:50 - # Clicked on 'Invalidate' session button
+2019-08-27 18:09:49 INFO  SessionsPage:58 - # Success message: Session invalidated!
+2019-08-27 18:09:54 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:09:55 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:09:55 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 18:09:55 INFO  WelcomePage:75 - # Clicked on 'Settings' Menu Option
+2019-08-27 18:09:55 INFO  SettingsPage:46 - # Settings page header: User settings for [admin]
+2019-08-27 18:10:01 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:10:01 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:10:01 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 18:10:01 INFO  WelcomePage:75 - # Clicked on 'Settings' Menu Option
+2019-08-27 18:10:01 INFO  SettingsPage:79 - # Entered text in 'firstName': kannan
+2019-08-27 18:10:01 INFO  SettingsPage:79 - # Entered text in 'lastName': Kumar
+2019-08-27 18:10:01 INFO  SettingsPage:79 - # Entered text in 'email': unniqannan@gamil.com
+2019-08-27 18:10:01 INFO  SettingsPage:90 - # Selected language: English
+2019-08-27 18:10:02 INFO  SettingsPage:98 - # Clicked on 'Save' button
+2019-08-27 18:10:02 INFO  SettingsPage:109 - # Alert message: An error has occurred! Settings could not be saved.
+2019-08-27 18:10:07 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:10:08 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:10:08 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 18:10:08 INFO  WelcomePage:75 - # Clicked on 'Settings' Menu Option
+2019-08-27 18:10:08 INFO  SettingsPage:79 - # Entered text in 'firstName':  
+2019-08-27 18:10:08 INFO  SettingsPage:123 - # Validation message for 'firstName': Your first name is required.
+2019-08-27 18:10:08 INFO  SettingsPage:133 - # 'Save' button is disabled
+2019-08-27 18:10:14 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:10:14 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:10:15 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 18:10:15 INFO  WelcomePage:75 - # Clicked on 'Settings' Menu Option
+2019-08-27 18:10:15 INFO  SettingsPage:79 - # Entered text in 'firstName': 
+2019-08-27 18:10:15 INFO  SettingsPage:123 - # Validation message for 'firstName': Your first name is required.
+2019-08-27 18:10:21 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:10:21 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:10:21 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 18:10:21 INFO  WelcomePage:75 - # Clicked on 'Settings' Menu Option
+2019-08-27 18:10:21 INFO  SettingsPage:79 - # Entered text in 'firstName': this text is to test the maximum limit of the First Name text field
+2019-08-27 18:10:32 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:10:32 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:10:33 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 18:10:33 INFO  WelcomePage:75 - # Clicked on 'Settings' Menu Option
+2019-08-27 18:10:33 INFO  SettingsPage:79 - # Entered text in 'lastName':  
+2019-08-27 18:10:33 INFO  SettingsPage:123 - # Validation message for 'lastName': Your last name is required.
+2019-08-27 18:10:33 INFO  SettingsPage:133 - # 'Save' button is disabled
+2019-08-27 18:10:39 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:10:39 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:10:40 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 18:10:40 INFO  WelcomePage:75 - # Clicked on 'Settings' Menu Option
+2019-08-27 18:10:40 INFO  SettingsPage:79 - # Entered text in 'lastName': 
+2019-08-27 18:10:40 INFO  SettingsPage:123 - # Validation message for 'lastName': Your last name is required.
+2019-08-27 18:10:45 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:10:46 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:10:46 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 18:10:46 INFO  WelcomePage:75 - # Clicked on 'Settings' Menu Option
+2019-08-27 18:10:46 INFO  SettingsPage:79 - # Entered text in 'lastName': this text is to test the maximum limit of the Last Name text field
+2019-08-27 18:10:58 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:10:58 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:10:58 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 18:10:58 INFO  WelcomePage:75 - # Clicked on 'Settings' Menu Option
+2019-08-27 18:10:58 INFO  SettingsPage:79 - # Entered text in 'email':  
+2019-08-27 18:10:58 INFO  SettingsPage:123 - # Validation message for 'email': Your e-mail is required.
+2019-08-27 18:10:58 INFO  SettingsPage:133 - # 'Save' button is disabled
+2019-08-27 18:11:04 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:11:04 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:11:04 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 18:11:05 INFO  WelcomePage:75 - # Clicked on 'Settings' Menu Option
+2019-08-27 18:11:05 INFO  SettingsPage:79 - # Entered text in 'email': a@b
+2019-08-27 18:11:05 INFO  SettingsPage:123 - # Validation message for 'email': Your e-mail is required to be at least 5 characters.
+2019-08-27 18:11:05 INFO  SettingsPage:133 - # 'Save' button is disabled
+2019-08-27 18:11:11 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:11:11 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:11:11 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 18:11:11 INFO  WelcomePage:75 - # Clicked on 'Settings' Menu Option
+2019-08-27 18:11:12 INFO  SettingsPage:79 - # Entered text in 'email': abcdef
+2019-08-27 18:11:12 INFO  SettingsPage:123 - # Validation message for 'email': Your e-mail is invalid.
+2019-08-27 18:11:12 INFO  SettingsPage:133 - # 'Save' button is disabled
+2019-08-27 18:11:17 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:11:18 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:11:18 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 18:11:18 INFO  WelcomePage:75 - # Clicked on 'Settings' Menu Option
+2019-08-27 18:11:18 INFO  SettingsPage:79 - # Entered text in 'email': ThisEmailIsToValidateTheMaximumLimitOfEmail@TextField.com
+2019-08-27 18:11:29 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:11:30 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:11:30 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:11:30 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 18:11:30 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:11:30 INFO  WelcomePage:75 - # Clicked on 'Branch' Menu Option
+2019-08-27 18:11:30 INFO  BranchMainPage:135 - # Clicked on 'Create' button
+2019-08-27 18:11:31 INFO  BranchMainPage:120 - # User is on 'Create or edit a Branch' form
+2019-08-27 18:11:31 INFO  BranchMainPage:122 - # Entered branch name: Computer Science
+2019-08-27 18:11:31 INFO  BranchMainPage:124 - # Entered branch code: CS
+2019-08-27 18:11:31 INFO  BranchMainPage:135 - # Clicked on 'Save' button
+2019-08-27 18:11:32 INFO  BranchMainPage:77 - # Newly Created Branch's Id: 7
+2019-08-27 18:11:32 INFO  BranchMainPage:170 - # Branch info corresponding to branch id (7): {ID=7, Code=CS, Name=Computer Science}
+2019-08-27 18:11:38 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:11:38 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:11:38 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:11:38 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 18:11:38 INFO  StaffMainPage:57 - # Staff page header: Staffs
+2019-08-27 18:11:44 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:11:44 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:11:45 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:11:45 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 18:11:45 INFO  StaffMainPage:336 - # Clicked on 'Create' button
+2019-08-27 18:11:45 INFO  StaffMainPage:228 - # User is on 'Create or edit a Staff' form
+2019-08-27 18:11:46 INFO  StaffMainPage:231 - # Validation message for 'Name': This field is required.
+2019-08-27 18:11:46 INFO  StaffMainPage:344 - # 'Save' button is disabled.
+2019-08-27 18:11:51 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:11:52 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:11:52 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:11:52 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 18:11:52 INFO  StaffMainPage:336 - # Clicked on 'Create' button
+2019-08-27 18:11:53 INFO  StaffMainPage:228 - # User is on 'Create or edit a Staff' form
+2019-08-27 18:12:04 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:12:04 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:12:04 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:12:04 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 18:12:05 INFO  StaffMainPage:336 - # Clicked on 'Create' button
+2019-08-27 18:12:05 INFO  StaffMainPage:228 - # User is on 'Create or edit a Staff' form
+2019-08-27 18:12:05 INFO  StaffMainPage:231 - # Validation message for 'Name': This field cannot be longer than 50 characters.
+2019-08-27 18:12:05 INFO  StaffMainPage:344 - # 'Save' button is disabled.
+2019-08-27 18:12:11 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:12:11 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:12:12 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:12:12 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 18:12:12 INFO  StaffMainPage:336 - # Clicked on 'Create' button
+2019-08-27 18:12:12 INFO  StaffMainPage:228 - # User is on 'Create or edit a Staff' form
+2019-08-27 18:12:13 INFO  StaffMainPage:231 - # Validation message for 'Name': This field should follow pattern ^[a-zA-Z\s]*$.
+2019-08-27 18:12:13 INFO  StaffMainPage:344 - # 'Save' button is disabled.
+2019-08-27 18:12:18 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:12:19 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:12:19 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:12:19 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 18:12:19 INFO  StaffMainPage:336 - # Clicked on 'Create' button
+2019-08-27 18:12:20 INFO  StaffMainPage:228 - # User is on 'Create or edit a Staff' form
+2019-08-27 18:12:20 INFO  StaffMainPage:231 - # Validation message for 'Name': This field should follow pattern ^[a-zA-Z\s]*$.
+2019-08-27 18:12:20 INFO  StaffMainPage:344 - # 'Save' button is disabled.
+2019-08-27 18:12:26 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:12:26 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:12:26 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:12:26 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 18:12:26 INFO  StaffMainPage:336 - # Clicked on 'Create' button
+2019-08-27 18:12:27 INFO  StaffMainPage:288 - # User is on 'Create or edit a Staff' form
+2019-08-27 18:12:27 INFO  StaffMainPage:290 - # Entered staff name: Unni Kannan
+2019-08-27 18:12:27 INFO  StaffMainPage:292 - # Select branch name: Computer Science
+2019-08-27 18:12:27 INFO  StaffMainPage:336 - # Clicked on 'Save' button
+2019-08-27 18:12:28 INFO  StaffMainPage:76 - # Newly Created Staff's Id: 5
+2019-08-27 18:12:28 INFO  StaffMainPage:251 - # Staff info corresponding to staff id (5): {Branch=Computer Science, ID=5, Name=Unni Kannan}
+2019-08-27 18:12:34 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:12:34 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:12:34 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:12:34 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 18:12:35 INFO  StaffMainPage:336 - # Clicked on 'Create' button
+2019-08-27 18:12:35 INFO  StaffMainPage:288 - # User is on 'Create or edit a Staff' form
+2019-08-27 18:12:35 INFO  StaffMainPage:290 - # Entered staff name: Unni Kannan
+2019-08-27 18:12:36 INFO  StaffMainPage:292 - # Select branch name: Computer Science
+2019-08-27 18:12:36 INFO  StaffMainPage:336 - # Clicked on 'Cancel' button
+2019-08-27 18:12:42 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:12:42 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:12:42 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:12:42 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 18:12:42 INFO  StaffMainPage:152 - # Clicked on id link: 5
+2019-08-27 18:12:42 INFO  StaffDetailPage:37 - # Staff Details page header: Staff 5
+2019-08-27 18:12:48 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:12:48 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:12:49 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:12:49 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 18:12:49 INFO  StaffMainPage:166 - # Clicked on 'View' button corresponding to id: 5
+2019-08-27 18:12:49 INFO  StaffDetailPage:37 - # Staff Details page header: Staff 5
+2019-08-27 18:12:55 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:12:55 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:12:55 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:12:55 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 18:12:55 INFO  StaffMainPage:166 - # Clicked on 'Edit' button corresponding to id: 5
+2019-08-27 18:13:02 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:13:02 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:13:02 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:13:02 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 18:13:03 INFO  StaffMainPage:166 - # Clicked on 'Edit' button corresponding to id: 5
+2019-08-27 18:13:03 INFO  StaffMainPage:288 - # User is on 'Create or edit a Staff' form
+2019-08-27 18:13:03 INFO  StaffMainPage:290 - # Entered staff name: Raj
+2019-08-27 18:13:03 INFO  StaffMainPage:292 - # Select branch name: Computer Science
+2019-08-27 18:13:04 INFO  StaffMainPage:336 - # Clicked on 'Cancel' button
+2019-08-27 18:13:04 INFO  StaffMainPage:108 - # Updated staff details
+2019-08-27 18:13:04 INFO  StaffMainPage:251 - # Staff info corresponding to staff id (5): {Branch=Computer Science, ID=5, Name=Unni Kannan}
+2019-08-27 18:13:10 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:13:10 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:13:10 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:13:10 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 18:13:11 INFO  StaffMainPage:166 - # Clicked on 'Edit' button corresponding to id: 5
+2019-08-27 18:13:11 INFO  StaffMainPage:288 - # User is on 'Create or edit a Staff' form
+2019-08-27 18:13:11 INFO  StaffMainPage:290 - # Entered staff name: Raj
+2019-08-27 18:13:11 INFO  StaffMainPage:292 - # Select branch name: Computer Science
+2019-08-27 18:13:11 INFO  StaffMainPage:336 - # Clicked on 'Save' button
+2019-08-27 18:13:12 INFO  StaffMainPage:108 - # Updated staff details
+2019-08-27 18:13:12 INFO  StaffMainPage:251 - # Staff info corresponding to staff id (5): {Branch=Computer Science, ID=5, Name=Raj}
+2019-08-27 18:13:18 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:13:18 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:13:18 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:13:18 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 18:13:19 INFO  StaffMainPage:251 - # Staff info corresponding to staff id (5): {Branch=Computer Science, ID=5, Name=Raj}
+2019-08-27 18:13:19 INFO  StaffMainPage:166 - # Clicked on 'Delete' button corresponding to id: 5
+2019-08-27 18:13:19 INFO  StaffMainPage:198 - # Delete confirmation modal: Are you sure you want to delete Staff 5?
+2019-08-27 18:13:19 INFO  StaffMainPage:212 - # Clicked on 'Cancel' button on Delete confirmation modal
+2019-08-27 18:13:19 INFO  StaffMainPage:251 - # Staff info corresponding to staff id (5): {Branch=Computer Science, ID=5, Name=Raj}
+2019-08-27 18:13:26 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:13:26 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:13:26 INFO  WelcomePage:62 - # Clicked on 'Entities' menu
+2019-08-27 18:13:26 INFO  WelcomePage:75 - # Clicked on 'Staff' Menu Option
+2019-08-27 18:13:27 INFO  StaffMainPage:166 - # Clicked on 'Delete' button corresponding to id: 5
+2019-08-27 18:13:27 INFO  StaffMainPage:198 - # Delete confirmation modal: Are you sure you want to delete Staff 5?
+2019-08-27 18:13:27 INFO  StaffMainPage:212 - # Clicked on 'Delete' button on Delete confirmation modal
+2019-08-27 18:13:38 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:13:39 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:13:39 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 18:13:39 INFO  WelcomePage:75 - # Clicked on 'Password' Menu Option
+2019-08-27 18:13:39 INFO  UpdatePasswordPage:47 - # Pasword page header: Password for [admin]
+2019-08-27 18:13:45 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:13:46 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:13:46 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 18:13:46 INFO  WelcomePage:75 - # Clicked on 'Password' Menu Option
+2019-08-27 18:13:46 INFO  UpdatePasswordPage:75 - # Entered text in 'password': Test#123
+2019-08-27 18:13:46 INFO  UpdatePasswordPage:75 - # Entered text in 'confirmPassword': Test#123
+2019-08-27 18:13:46 INFO  UpdatePasswordPage:83 - # Clicked on 'Save' button
+2019-08-27 18:13:46 INFO  UpdatePasswordPage:103 - # Alert message: An error has occurred! The password could not be changed.
+2019-08-27 18:13:52 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:13:52 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:13:52 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 18:13:53 INFO  WelcomePage:75 - # Clicked on 'Password' Menu Option
+2019-08-27 18:13:53 INFO  UpdatePasswordPage:75 - # Entered text in 'password': A
+2019-08-27 18:13:53 INFO  UpdatePasswordPage:116 - # Validation message for 'password': Your password is required to be at least 5 characters.
+2019-08-27 18:13:53 INFO  UpdatePasswordPage:126 - # 'Save' button is disabled
+2019-08-27 18:13:59 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:13:59 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:13:59 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 18:13:59 INFO  WelcomePage:75 - # Clicked on 'Password' Menu Option
+2019-08-27 18:13:59 INFO  UpdatePasswordPage:75 - # Entered text in 'password': this text is to test the max limit of the password1
+2019-08-27 18:13:59 INFO  UpdatePasswordPage:116 - # Validation message for 'password': Your password cannot be longer than 50 characters.
+2019-08-27 18:13:59 INFO  UpdatePasswordPage:126 - # 'Save' button is disabled
+2019-08-27 18:14:06 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:14:06 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:14:06 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 18:14:06 INFO  WelcomePage:75 - # Clicked on 'Password' Menu Option
+2019-08-27 18:14:06 INFO  UpdatePasswordPage:75 - # Entered text in 'confirmPassword': A
+2019-08-27 18:14:06 INFO  UpdatePasswordPage:116 - # Validation message for 'confirmPassword': Your confirmation password is required to be at least 5 characters.
+2019-08-27 18:14:06 INFO  UpdatePasswordPage:126 - # 'Save' button is disabled
+2019-08-27 18:14:12 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:14:12 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:14:13 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 18:14:13 INFO  WelcomePage:75 - # Clicked on 'Password' Menu Option
+2019-08-27 18:14:13 INFO  UpdatePasswordPage:75 - # Entered text in 'confirmPassword': this text is to test the max limit of the password1
+2019-08-27 18:14:13 INFO  UpdatePasswordPage:116 - # Validation message for 'confirmPassword': Your confirmation password cannot be longer than 50 characters.
+2019-08-27 18:14:13 INFO  UpdatePasswordPage:126 - # 'Save' button is disabled
+2019-08-27 18:14:19 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:14:19 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:14:19 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 18:14:19 INFO  WelcomePage:75 - # Clicked on 'Password' Menu Option
+2019-08-27 18:14:19 INFO  UpdatePasswordPage:75 - # Entered text in 'password': req
+2019-08-27 18:14:19 INFO  UpdatePasswordPage:93 - # Cleared 'password' to verify required field validation
+2019-08-27 18:14:19 INFO  UpdatePasswordPage:116 - # Validation message for 'password': Your password is required.
+2019-08-27 18:14:19 INFO  UpdatePasswordPage:126 - # 'Save' button is disabled
+2019-08-27 18:14:25 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:14:25 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:14:26 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 18:14:26 INFO  WelcomePage:75 - # Clicked on 'Password' Menu Option
+2019-08-27 18:14:26 INFO  UpdatePasswordPage:75 - # Entered text in 'confirmPassword': req
+2019-08-27 18:14:26 INFO  UpdatePasswordPage:93 - # Cleared 'confirmPassword' to verify required field validation
+2019-08-27 18:14:26 INFO  UpdatePasswordPage:116 - # Validation message for 'confirmPassword': Your confirmation password is required.
+2019-08-27 18:14:26 INFO  UpdatePasswordPage:126 - # 'Save' button is disabled
+2019-08-27 18:14:32 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:14:33 INFO  LoginPage:96 - # Login into application(admin, admin)
+2019-08-27 18:14:33 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 18:14:33 INFO  WelcomePage:75 - # Clicked on 'Password' Menu Option
+2019-08-27 18:14:33 INFO  UpdatePasswordPage:75 - # Entered text in 'password': Test#123
+2019-08-27 18:14:33 INFO  UpdatePasswordPage:75 - # Entered text in 'confirmPassword': Abc#123
+2019-08-27 18:14:33 INFO  UpdatePasswordPage:83 - # Clicked on 'Save' button
+2019-08-27 18:14:33 INFO  UpdatePasswordPage:103 - # Alert message: The password and its confirmation do not match!
+2019-08-27 18:14:39 INFO  WelcomePage:37 - # Welcome page header: Welcome to Gurukula!
+2019-08-27 18:14:45 INFO  WelcomePage:51 - # Clicked on 'login' link
+2019-08-27 18:14:45 INFO  LoginPage:40 - # Login page header: Authentication
+2019-08-27 18:14:50 INFO  WelcomePage:51 - # Clicked on 'Register a new account' link
+2019-08-27 18:14:50 INFO  RegistrationPage:49 - # Registration page header: Registration
+2019-08-27 18:14:56 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 18:14:56 INFO  WelcomePage:75 - # Clicked on 'Authenticate' Menu Option
+2019-08-27 18:14:56 INFO  LoginPage:40 - # Login page header: Authentication
+2019-08-27 18:15:02 INFO  WelcomePage:37 - # Welcome page header: Welcome to Gurukula!
+2019-08-27 18:15:02 INFO  WelcomePage:62 - # Clicked on 'Account' menu
+2019-08-27 18:15:02 INFO  WelcomePage:75 - # Clicked on 'Register' Menu Option
+2019-08-27 18:15:02 INFO  RegistrationPage:49 - # Registration page header: Registration
